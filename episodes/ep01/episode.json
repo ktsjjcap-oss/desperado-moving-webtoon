@@ -1,0 +1,9 @@
+{
+  "id": "ep01-pilot",
+  "title": "파일럿 — 서비스 복도에서 실버 릴리까지",
+  "version": "0.1.0",
+  "mode": "scroll-scrub",
+  "reverse_scroll": true,
+  "sound": "user-enabled",
+  "scenes": ["corridor", "lily"]
+}
