@@ -1,0 +1,36 @@
+name: Deployed Visual QA
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - name: Wait for Cloudflare deployment
+        run: |
+          for i in {1..24}; do
+            if curl -fsS "https://desperado-moving-webtoon.ktsjjcap.workers.dev/?qa=${GITHUB_SHA}" >/dev/null; then sleep 10; exit 0; fi
+            sleep 5
+          done
+          exit 1
+      - run: npm run qa
+        env:
+          QA_URL: https://desperado-moving-webtoon.ktsjjcap.workers.dev
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: deployed-visual-qa-${{ github.sha }}
+          path: |
+            qa-evidence
+            qa-report
+            test-results
+          if-no-files-found: warn
