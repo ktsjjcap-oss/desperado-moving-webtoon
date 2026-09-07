@@ -1,0 +1,1 @@
+const {defineConfig,devices}=require('@playwright/test');module.exports=defineConfig({testDir:'./tests',timeout:60000,retries:1,use:{baseURL:process.env.QA_URL||'https://desperado-moving-webtoon.ktsjjcap.workers.dev',...devices['iPhone 13'],trace:'retain-on-failure'},reporter:[['html',{outputFolder:'qa-report',open:'never'}],['list']]});
