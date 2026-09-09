@@ -1,0 +1,14 @@
+CueID,Scene,Trigger,Generator,Bus,Gain,Pan,FadeIn,FadeOut,Loop,Priority
+AMB01,GLOBAL,sound-on,43Hz saw + 120Hz LPF,AMBIENCE,.012,0,.1,.18,true,1
+S00,SC00,enter,92Hz tone,AMBIENCE,.012,-.3,0,.9,false,1
+S01A,SC01,enter,155Hz triangle,SFX,.024,-.1,0,.08,false,3
+S01B,SC01,enter+310,82Hz sine,SFX,.025,0,0,.2,false,2
+S02A,SC02,enter,118Hz square,SFX,.048,.35,0,.09,false,4
+S02B,SC02,enter+480,104Hz square,SFX,.042,.05,0,.11,false,4
+S03,SC03,enter,74Hz sine,SFX,.018,-.2,0,.38,false,1
+S04,SC04,enter,61Hz sine,MUSIC,.018,0,0,.5,false,1
+S05A,SC05,enter,91Hz square,SFX,.065,-.1,0,.07,false,5
+S05B,SC05,enter+65,53Hz sine,SFX,.05,0,0,.18,false,5
+S06A,SC06,enter,410Hz sine,SFX,.035,.2,0,.07,false,3
+S06B,SC06,enter+180,196Hz sine,MUSIC,.022,0,0,.55,false,2
+S07,SC07,enter,47Hz sine,MUSIC,.055,0,0,.7,false,4

@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm install
+      - run: npm ci
       - run: npx playwright install --with-deps chromium
       - name: Wait for Cloudflare deployment
         run: |
@@ -25,6 +25,7 @@ jobs:
       - run: npm run qa
         env:
           QA_URL: https://desperado-moving-webtoon.ktsjjcap.workers.dev
+          EXPECTED_BUILD_SHA: ${{ github.sha }}
       - uses: actions/upload-artifact@v4
         if: always()
         with:

@@ -1,0 +1,12 @@
+CueID,Scene,Target,Start,Duration,Ease,Action,Reverse
+M00,SC00,title,enter26,900,power2.out,fade-up,reset
+M01,SC01,hand,enter42,900,power2.out,translate-5_scale1.07,reset
+M02,SC01,threat,enter42,900,power2.out,scale1.08_brighten,reset
+M03,SC02,boot,enter42,900,power2.out,translateY9_scale1.035,reset
+M04,SC03,eye-region,enter42,900,power2.out,translateX4_scale1.04,reset
+M05,SC04,gaze-region,enter42,900,power2.out,translateX8_scale1.08,reset
+M06,SC05,grip-region,enter42,900,power2.out,translateX4_scale1.045,reset
+M07,SC05,stage,enter42+520,115,impact,shake3px,reset
+M08,SC06,target-region,enter42,900,power2.out,scale1.06_brighten,reset
+M09,SC06,security-light,enter42,420,ease,opacity1,reset
+M10,SC07,end-copy,enter42,900,power2.out,fade-up,reset
