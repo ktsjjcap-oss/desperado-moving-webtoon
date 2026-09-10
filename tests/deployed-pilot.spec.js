@@ -7,6 +7,7 @@ test('commercial moving-webtoon closeout', async ({ page }, info) => {
   page.on('response', r => r.status() >= 400 && bad.push(`${r.status()} ${r.url()}`));
   await page.goto('/episodes/ep01/pilot', { waitUntil: 'load' });
   await expect(page.locator('.scene')).toHaveCount(8);
+  await expect(page.locator('#sound-gate')).toContainText('음성과 함께 시작');
   const m = await page.evaluate(() => ({vh: innerHeight,total: document.querySelector('main').scrollHeight,scenes: [...document.querySelectorAll('.scene')].map(s => s.offsetHeight / innerHeight)}));
   expect(m.total / m.vh).toBeLessThanOrEqual(7.4);
   expect(Math.max(...m.scenes)).toBeLessThanOrEqual(1.16);
@@ -22,8 +23,18 @@ test('commercial moving-webtoon closeout', async ({ page }, info) => {
   await page.evaluate(() => scrollTo(0, 0)); await page.waitForTimeout(1100);
   expect(await state('#sc01')).toBe('idle');
   expect(await page.locator('#sc01 .hand-stop').evaluate(e => getComputedStyle(e).transform)).not.toBe(hand1);
-  await page.locator('#sound').click(); await expect(page.locator('#sound')).toHaveText('SOUND ON');
+  const p1 = Number(await page.locator('#sc00').getAttribute('data-progress'));
+  await page.mouse.wheel(0, 120); await page.waitForTimeout(100);
+  const p2 = Number(await page.locator('#sc00').getAttribute('data-progress'));
+  expect(p2).toBeGreaterThan(p1);
+  await page.locator('#sound').click(); await expect(page.locator('#sound')).toContainText('VOICE · BGM · SFX');
+  await expect(page.locator('body')).toHaveClass(/audio-enabled/);
   await page.locator('#sound').click(); await expect(page.locator('#sound')).toHaveText('SOUND OFF');
+  const audio = await page.evaluate(async () => {
+    const urls = ['/assets/ep01-audio/corridor-ambience.ogg','/assets/ep01-audio/tension-score.ogg','/assets/ep01-audio/sc01-chano.mp3','/assets/ep01-audio/footstep.ogg'];
+    return Promise.all(urls.map(async url => ({ url, status: (await fetch(url)).status })));
+  });
+  expect(audio.every(x => x.status === 200)).toBeTruthy();
   expect(await page.locator('meta[name="build-sha"]').getAttribute('content')).toBe(process.env.EXPECTED_BUILD_SHA || await page.locator('meta[name="build-sha"]').getAttribute('content'));
   expect(errors).toEqual([]); expect(bad.filter(x => !x.includes('api.github.com'))).toEqual([]);
 });
