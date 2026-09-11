@@ -1,23 +1,16 @@
-# DESPERADO EP01 Moving Webtoon — Final Closeout
+# DESPERADO EP01 Frame-Animation Rebuild — Closeout
 
 - Production URL: https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/pilot
-- Scroll-scrub/audio code SHA: `442634427ee590ed5a7e20a75b8cb095688f962c`
-- Page build SHA: resolved from and asserted equal to deployed `main` HEAD by production QA
-- Benchmark: COMPLETE, 7 documents, 24 applied rules
-- Storyboard: `DESPERADO_EP01_MOVING_STORYBOARD_MASTER_v1.0` — LOCK
-- Art: 6 master PNG + 6 optimized WebP assets
-- Motion: 8 continuous scroll-scrub scenes; scroll speed controls the playhead; stop holds; reverse restores
-- Audio: 5 voice performances + BGM + corridor ambience + 4 Foley/SFX masters
-- Mobile QA: PASS (390×844 automated capture suite)
-- Desktop QA: PASS (1440×900 automated + 1363×936 direct visual review)
-- Reverse Scroll: PASS
-- Scroll Comfort: PASS — 7.05 total viewport, 0.85 median, 1.15 maximum
-- Runtime / asset / console QA: PASS
-- Screenshot capture QA: PASS
-- Human Commercial Art QA: PASS
-- SC01 animated-layer seam: FAIL detected → feather-mask patch → redeploy → PASS
+- Deployed and production-tested SHA: the head SHA recorded by the latest successful `Deployed Visual QA` run
+- Baseline content run: `34565037272` — SUCCESS
+- Runtime: eight Canvas frame sequences; 64 illustrated runtime frames; exact reverse frame selection
+- Art: real illustrated characters, faces, eyes, hands, boots, door, lever and corridor; no CSS character/prop substitute
+- Sound: Korean voice tracks + 42-second continuous score + corridor ambience + scene-specific cloth, heel, latch and security foley
+- Scroll: 6.49 viewport total; 0.68–1.08 viewport per scene
+- Production browser: eight scenes and all Canvas sequences loaded; forward frame progression PASS; reverse 5→0 PASS; audio gate PASS; final title overflow fixed
+- Automated production QA: mobile 390×844 and desktop 1440×900 PASS
+- Visual captures inspected: SC00, SC02, SC05, SC06, SC07 PASS
 - S issues: 0
 - A issues: 0
-- Known B/C issues: 0
 
-The previous gray silhouette, geometric person/eye/hand/handle and 210–250vh scene implementation was removed from the active repository assets and is recoverable from Git history.
+The rejected single-still clipping/zoom implementation is not used by the active reader.

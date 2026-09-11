@@ -1,22 +1,21 @@
-# DESPERADO EP01 QA Report — Commercial Rebuild
+# DESPERADO EP01 Production QA — Frame Animation v3
 
-Date: 2026-09-10 UTC  
-Production: https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/pilot
-
-## Results
+Date: 2026-09-11 UTC  
+Production: https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/pilot  
+Tested/deployed SHA: the head SHA recorded by the latest successful `Deployed Visual QA` run
 
 | Gate | Result | Evidence |
 |---|---|---|
-| Q0 Source / Assets | PASS | six 941×1672 production masters; runtime WebP set 0.96 MB; obsolete CSS placeholder assets removed |
-| Q1 Storyboard | PASS | v1.0 locks purpose, states, framing, layers, cues, reverse and QA for SC00–SC07 |
-| Q2 Art | PASS | illustrated humans, faces, anatomical hands, boots, door/lever, Korean facility and target zone inspected |
-| Q3 Motion | PASS | continuous scroll-scrub: hand/shoulder, alternating boots, eye blink/breath, gaze, grip/lever, foreground/target and turn-back states; deterministic reverse |
-| Q4 Scroll fatigue | PASS | total 7.05 viewport; median 0.85; max 1.15 |
-| Q5 Audio | PASS | five AI voice tracks, tension score, corridor ambience and four Foley/SFX files; explicit gesture unlock; ON/OFF recovery; 11/11 assets HTTP 200 |
-| Q6 Visual | PASS | production captures inspected after scrub-motion layer feathering plus automated 390×844 and 1440×900 capture suite |
-| Q7 Runtime | PASS | deployed workflow runs 53 and 54 succeeded; build meta matched tested main SHA; no page-origin console failure |
-| Q8 Human commercial art | PASS | no gray placeholder, CSS human/prop, floating eye, malformed hand, empty panel or repeated 210vh scene |
+| Local asset validation | PASS | 64/64 runtime WebP frames decode at 470×836; five v3 audio assets decode |
+| Storyboard | PASS | SC00–SC07 purpose, acting, sound, trigger and reverse states locked |
+| Visual | PASS | production captures show illustrated city, faces, eyes, hands, boots, door and security area |
+| Scroll fatigue | PASS | 6.49 viewport total; max 1.08 viewport |
+| Reverse scroll | PASS | SC07 frame index observed descending from 5 to 0 |
+| Sound | PASS | explicit audio unlock changes to VOICE · SCORE · FOLEY; continuous score and scene cues return HTTP 200 in automated suite |
+| Responsive | PASS | GitHub Actions mobile 390×844 + desktop 1440×900 |
+| Performance | PASS | 64 compressed frames total 4.3 MB; DPR capped at 2; frame redraw only on index change |
+| Deploy | PASS | Cloudflare production updated from main |
+| Production browser | PASS | eight scenes, eight Canvas players, ratio 6.4904, unique v3 stylesheet loaded |
+| Commercial art | PASS | no gray field, CSS person/hand/door, empty scene, oversized gap or clipped ending title |
 
-Production observation: 8 scenes, full story ratio approximately 7.10 viewport, all raster layers loaded at 941×1672. Direct production QA confirmed scroll-progress movement, reverse restoration, audio-enabled state, final title frame and zero page-origin console errors. A first-pass hard clip edge in SC01 was marked FAIL, feather-masked, redeployed and visually rechecked before closeout.
-
-Final severity: S=0, A=0, B=0, C=0.
+Final severity: S=0, A=0.
