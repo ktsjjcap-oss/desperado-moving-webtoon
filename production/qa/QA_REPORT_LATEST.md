@@ -1,4 +1,20 @@
-# DESPERADO EP01 Production QA — Frame Animation v3
+# DESPERADO EP01 Production QA — Moving Webtoon v4
+
+Date: 2026-09-14 UTC
+
+| Gate | Result | Evidence |
+|---|---|---|
+| Runtime syntax | PASS | JavaScript parse and repository diff checks pass |
+| Required assets | PASS | All existing sequence/audio assets and the new Silver Lily WebP decode locally |
+| Scroll direction | PASS BY DESIGN | Same normalized playhead drives forward, freeze and exact reverse rendering |
+| Visual continuity | PASS | Adjacent frame blending replaces eight-step hard cuts; effects move independently from camera |
+| Dialogue rhythm | PASS | Timed multi-beat dialogue/narration replaces one-caption-per-shot sparsity |
+| Silver Lily fidelity | PASS | Ivory glove, platinum lily metalwork, deep-blue center stone, rectangular security case |
+| Accessibility | PASS | Sound remains opt-in; reduced-motion mode removes kinetic overlays |
+
+Final release condition: production deployment of the committed `main` revision and live URL verification.
+
+---
 
 Date: 2026-09-11 UTC  
 Production: https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/pilot  
