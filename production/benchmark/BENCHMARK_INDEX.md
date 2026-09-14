@@ -1,6 +1,10 @@
 # EP01 Moving Webtoon Benchmark Index
 
-Status: COMPLETE — 2026-09-09
+Status: **SUPERSEDED — 2026-09-14**
+
+Current governing study and rebuild architecture:
+
+- [GLOBAL_MOVINGTOON_RESEARCH_AND_REBUILD_ARCHITECTURE_v3.0.md](./GLOBAL_MOVINGTOON_RESEARCH_AND_REBUILD_ARCHITECTURE_v3.0.md)
 
 ## Primary references
 
@@ -13,6 +17,6 @@ Status: COMPLETE — 2026-09-09
 - Rive Web state machines — state-driven vector runtime; reserved for UI only: https://rive.app/docs/runtimes/web/state-machines
 - Playwright visual comparisons — stable screenshots and pixel regression: https://playwright.dev/docs/test-snapshots
 
-## Decision
+## Superseded decision
 
-DESPERADO uses illustrated panels as the product, motion as punctuation, audio as enhancement, and short threshold-triggered timelines as the main interaction. It does not reproduce reference art or proprietary layouts.
+This earlier benchmark did not set a sufficient animation-performance bar. The eight-frame result is rejected and must not be represented as a commercial moving-toon PASS.

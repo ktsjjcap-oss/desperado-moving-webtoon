@@ -1,1 +1,23 @@
-{"release":"scroll-scrub-audio-v2","open":{"S":0,"A":0,"B":0,"C":0},"closed":[{"severity":"S","issue":"CSS placeholder humans/props","resolution":"replaced with six commissioned raster production masters"},{"severity":"A","issue":"210-250vh repeated scroll structure","resolution":"replaced with 0.75-1.15 viewport scene travel"},{"severity":"A","issue":"threshold-only zoom/pan motion","resolution":"replaced with continuous scroll-progress character, prop, foreground and camera animation"},{"severity":"A","issue":"oscillator-only placeholder audio","resolution":"replaced with voice, BGM, ambience and Foley/SFX media tracks"},{"severity":"A","issue":"SC01 animated-layer hard edge","resolution":"feather-mask patch visually verified on production"}]}
+{
+  "release": "frame-animation-v3-rejected",
+  "status": "FAIL",
+  "open": { "S": 1, "A": 2, "B": 0, "C": 0 },
+  "issues": [
+    {
+      "severity": "S",
+      "issue": "Eight-frame scene sequences do not meet the moving-toon animation definition",
+      "requiredResolution": "Replace with 48–96 coherent authored frames per scene and pass blind moving-toon recognition QA"
+    },
+    {
+      "severity": "A",
+      "issue": "Camera transforms dominate because acting and in-betweens are insufficient",
+      "requiredResolution": "Every shot must read with camera locked and include anticipation, action, contact/turn and settle/reaction"
+    },
+    {
+      "severity": "A",
+      "issue": "Procedural BGM and sparse effects do not meet commercial audio quality",
+      "requiredResolution": "Deliver composed music, continuous ambience, performed/licensed Foley, designed SFX and directed Korean voices as documented stems"
+    }
+  ],
+  "governingPlan": "production/benchmark/GLOBAL_MOVINGTOON_RESEARCH_AND_REBUILD_ARCHITECTURE_v3.0.md"
+}

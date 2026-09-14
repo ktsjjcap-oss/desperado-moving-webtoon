@@ -1,5 +1,7 @@
 # DESPERADO EP01 Frame-Animation Rebuild — Closeout
 
+> **STATUS WITHDRAWN / FAIL — 2026-09-14.** Director review found that the eight-frame sequences read as a slideshow/zoom animatic, not a commercial moving toon. The S/A=0 claims below are retained only as a historical record and are no longer valid. The governing corrective design is `production/benchmark/GLOBAL_MOVINGTOON_RESEARCH_AND_REBUILD_ARCHITECTURE_v3.0.md`.
+
 - Production URL: https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/pilot
 - Deployed and production-tested SHA: the head SHA recorded by the latest successful `Deployed Visual QA` run
 - Baseline content run: `34565037272` — SUCCESS
