@@ -8,7 +8,7 @@
     "not_found_handling": "404-page",
     "binding": "ASSETS",
     "run_worker_first": [
-      "/assets/seq01/master.mp4"
+      "/assets/seq01/*.mp4"
     ]
   },
   "main": "worker.mjs"

@@ -1,6 +1,6 @@
 export default {
  async fetch(request, env) {
-  if (new URL(request.url).pathname !== '/assets/seq01/master.mp4' || !['GET','HEAD'].includes(request.method)) return env.ASSETS.fetch(request);
+  if (!['/assets/seq01/master.mp4','/assets/seq01/story-v2.mp4'].includes(new URL(request.url).pathname) || !['GET','HEAD'].includes(request.method)) return env.ASSETS.fetch(request);
   const range = request.headers.get('range');
   const upstreamHeaders = new Headers(request.headers);
   upstreamHeaders.delete('range');
