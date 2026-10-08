@@ -1,4 +1,10 @@
 const {test,expect}=require('@playwright/test');
+test('video supports seeking ranges',async({request})=>{
+ const response=await request.get('/assets/seq01/master.mp4',{headers:{Range:'bytes=0-1'}});
+ expect(response.status()).toBe(206);
+ expect(response.headers()['content-range']).toMatch(/^bytes 0-1\/\d+$/);
+ expect((await response.body()).length).toBe(2);
+});
 test('sequence master loads and scroll direction controls playback',async({page})=>{
  await page.goto('/episodes/ep01/pilot');
  await expect(page.locator('#film')).toHaveJSProperty('readyState',4,{timeout:60000});
