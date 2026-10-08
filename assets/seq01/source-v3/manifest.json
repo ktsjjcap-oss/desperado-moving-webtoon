@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "phase": "source-comic-review",
+  "panels": 20,
+  "motion_applied": false,
+  "images": [
+    "01.png",
+    "02.png",
+    "03.png",
+    "04.png",
+    "05.png"
+  ],
+  "source": "New original comic artwork generated from official DESPERADO character references. Not extracted video frames.",
+  "generation": "Built-in image generation; targeted continuity corrections before review."
+}
