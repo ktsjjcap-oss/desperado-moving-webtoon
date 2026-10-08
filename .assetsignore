@@ -1,0 +1,7 @@
+*
+!assets/
+!assets/**
+!episodes/
+!episodes/**
+!index.html
+!_headers

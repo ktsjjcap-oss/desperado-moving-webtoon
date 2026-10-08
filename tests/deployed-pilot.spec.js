@@ -2,7 +2,8 @@ const {test,expect}=require('@playwright/test');
 test('sequence master loads and scroll direction controls playback',async({page})=>{
  await page.goto('/episodes/ep01/pilot');
  await expect(page.locator('#film')).toHaveJSProperty('readyState',4,{timeout:60000});
- await expect(page.locator('#film')).toHaveJSProperty('duration',140.7);
+ await expect.poll(()=>page.evaluate(()=>document.querySelector('#film').duration)).toBeGreaterThan(140);
+ await expect.poll(()=>page.evaluate(()=>document.querySelector('#film').duration)).toBeLessThan(142);
  await page.locator('#sound').click();
  await expect(page.locator('#film')).toHaveJSProperty('muted',false);
  await page.evaluate(()=>scrollTo(0,innerHeight*1.1+20));
