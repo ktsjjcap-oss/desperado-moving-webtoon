@@ -20,7 +20,7 @@ jobs:
           for i in {1..48}; do
             page="$(curl -fsS "https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/pilot?qa=${GITHUB_SHA}" || true)"
             video_status="$(curl -sS -o /dev/null -w '%{http_code}' -H 'Range: bytes=0-1' "https://desperado-moving-webtoon.ktsjjcap.workers.dev/assets/seq01/master.mp4?qa=${GITHUB_SHA}" || true)"
-            if [[ "$page" == *'/assets/seq01/player.js'* ]] && [[ "$video_status" == "200" || "$video_status" == "206" ]]; then
+            if [[ "$page" == *'/assets/seq01/player.js'* ]] && [[ "$video_status" == "206" ]]; then
               sleep 5
               exit 0
             fi
