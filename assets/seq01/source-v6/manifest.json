@@ -1,0 +1,19 @@
+{
+  "version": 6,
+  "panels": 112,
+  "strips": 28,
+  "sequences": [
+    40,
+    36,
+    36
+  ],
+  "dialogue_segments": 228,
+  "duration": 719.0034467120181,
+  "motion": "scroll-scrubbed panel camera plus three animated scene clips",
+  "source_recovery": "108 recovered approved panels with continuity edits plus reconstructed final four",
+  "videos": [
+    1,
+    2,
+    66
+  ]
+}

@@ -8,7 +8,10 @@
     "not_found_handling": "404-page",
     "binding": "ASSETS",
     "run_worker_first": [
-      "/assets/seq01/*.mp4"
+      "/assets/seq01/*.mp4",
+      "/assets/seq01/source-v6/*.mp4",
+      "/assets/seq01/source-v6/*.mp3",
+      "/assets/seq01/source-v6/audio/*.mp3"
     ]
   },
   "main": "worker.mjs"
