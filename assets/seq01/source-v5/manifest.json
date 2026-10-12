@@ -1,0 +1,23 @@
+{
+  "version": 5,
+  "phase": "source-comic",
+  "panels": 80,
+  "strips": 20,
+  "sequences": [
+    {
+      "sequence": 1,
+      "panels": 28
+    },
+    {
+      "sequence": 2,
+      "panels": 20
+    },
+    {
+      "sequence": 3,
+      "panels": 32
+    }
+  ],
+  "motion_applied": false,
+  "fictional_appraisal_krw": 10000000000,
+  "rendering": "CSS viewports of unmodified generated artwork with editorial white spacing"
+}
