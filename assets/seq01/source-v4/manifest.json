@@ -1,0 +1,8 @@
+{
+  "version": 4,
+  "phase": "source-comic",
+  "panels": 32,
+  "strips": 8,
+  "motion_applied": false,
+  "rendering": "CSS viewports of unmodified original comic artwork with editorial panel spacing"
+}
