@@ -94,5 +94,6 @@
       "expected": "물건이 들어 있는 상자를 얻었지만 아직 성공이 아니다. 어느 문이 먼저 열릴지 궁금해짐.",
       "visual_check": "지상 밴 적재·경사판 회수·5인·실제 출구 봉쇄·등록 작업자와 운전자 구분·티셔츠 연속성·닫힌 케이스를 검사."
     }
-  ]
+  ],
+  "status": "selected v16 published; art and public reader reviewed"
 }

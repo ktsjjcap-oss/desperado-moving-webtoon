@@ -589,6 +589,6 @@
       "sha256": "5bc090797e7c572fb373b78e60737d2907f95b5f9e83cfbca117346d1b2aed74"
     }
   },
-  "status": "assembled; public browser QA pending",
+  "status": "selected v16 published; art and public reader reviewed",
   "format_note": "원본 PNG는 보존. WebP는 형식 변환만 수행. 1/70/84번의 기존 원화 영역은 본편·확대에서 제외하고 세로 컷으로 대체."
 }
