@@ -1,0 +1,559 @@
+{
+  "title": "DESPERADO · EP01 사십 초 뒤",
+  "main_story_panels": 88,
+  "major_insets": "별도 소형 삽입 컷은88개 서사 번호에 포함해 표시",
+  "selected_assets": {
+    "1": {
+      "file": "page-01.webp",
+      "source": "page-01-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "4253893ab61645d6cc4885715fa5063d569b25352acca99d53c1aec99c794a63"
+    },
+    "2": {
+      "file": "page-02.webp",
+      "source": "page-02-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "1f980e9588f67fe4580851ce13aa63cca1f68181e69b6f6bd57d1a0dc2f244a8"
+    },
+    "3": {
+      "file": "page-03.webp",
+      "source": "page-03.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "4ca0d2e7239209ba2423578afe4065e1847b845b8515c21a7514b726ce5f4455"
+    },
+    "4": {
+      "file": "page-04.webp",
+      "source": "page-04-fixed.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "96aa44ba4e3fb2601d35577d66cfc8fd94ed9c6948d92b4e60da49fe07cdf483"
+    },
+    "5": {
+      "file": "page-05.webp",
+      "source": "page-05-fixed.png",
+      "width": 894,
+      "height": 1759,
+      "sha256": "414a047ed24fb5733371ca5b5f4294f4c8cd54600a7fc9c39ba4894e8daf100f"
+    },
+    "6": {
+      "file": "page-06.webp",
+      "source": "page-06-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "d14111ba8dbabfe4892817b8abc23add253ea970676c290f85ade76211ba9b11"
+    },
+    "7": {
+      "file": "page-07.webp",
+      "source": "page-07-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "4acca8ac99390cd552e7ed990f8dbb581eaa647c8be2057999889c404c9b37cb"
+    },
+    "8": {
+      "file": "page-08.webp",
+      "source": "page-08.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "85ea25eb024a498e3b680f8361a39a1b895c8afc2b3b7e527db53232fc201cbf"
+    },
+    "9": {
+      "file": "page-09.webp",
+      "source": "page-09.png",
+      "width": 883,
+      "height": 1781,
+      "sha256": "0dfea0ce110c9c1f9c95a781c3f866b6104cb766e8cf43147ed89738622fec8e"
+    },
+    "10": {
+      "file": "page-10.webp",
+      "source": "page-10-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "a4603d88b46dfc524ecd2b36da93c5a3450a23bf821a43c3251dc6cf49783c9d"
+    },
+    "11": {
+      "file": "page-11.webp",
+      "source": "page-11-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "0f0dc80a4077823c605aeda23c20649c1149d184edea87bc4b65b4c537da57f6"
+    },
+    "12": {
+      "file": "page-12.webp",
+      "source": "page-12-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "19f8f56027fda7f9fcc99ed7121bea56a9cef35995cf1e490ec945e2cdbfe8f6"
+    },
+    "13": {
+      "file": "page-13.webp",
+      "source": "page-13-fixed2.png",
+      "width": 904,
+      "height": 1740,
+      "sha256": "59dc1f50a6833a907cc775820000c2bd73010d4cab76b27c988d9f705e370b8f"
+    },
+    "14": {
+      "file": "page-14.webp",
+      "source": "page-14-fixed.png",
+      "width": 870,
+      "height": 1808,
+      "sha256": "6c6591119707db502a558002a8dbb073e42b00ba340b539ef813fbb2d8611fc7"
+    },
+    "15": {
+      "file": "page-15.webp",
+      "source": "page-15-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "90efaf74df8dfc25e2250990dcc695845f427abdc1bcafb85e1ae710c5b81ad4"
+    },
+    "16": {
+      "file": "page-16.webp",
+      "source": "page-16-fixed2.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "6920db63d8af1e22cee8640dd9fde073919c0c0f5b9fd7e9eed86a9f16b5efe8"
+    },
+    "17": {
+      "file": "page-17.webp",
+      "source": "page-17-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "5c12e4a83906920f79bc28ab9dd69cbeb89338d725c62d8f04bc8c876f054776"
+    },
+    "18": {
+      "file": "page-18.webp",
+      "source": "page-18-fixed2.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "5a32adb64dbcdb194665374733c554e74f65012217769edc6497875f3f7d596b"
+    },
+    "19": {
+      "file": "page-19.webp",
+      "source": "page-19.png",
+      "width": 848,
+      "height": 1855,
+      "sha256": "6e3a4391e2307e16666cc35ff5e7d7a2e97f74baecd5bd5e2bd78706f5f8a82c"
+    },
+    "20": {
+      "file": "page-20.webp",
+      "source": "page-20.png",
+      "width": 892,
+      "height": 1762,
+      "sha256": "a779b8102a287f0cd06cc3b756ab1bdfcbcb74e78aa0ff09278b670b94014491"
+    },
+    "21": {
+      "file": "page-21.webp",
+      "source": "page-21-fixed.png",
+      "width": 919,
+      "height": 1711,
+      "sha256": "038db1746e1f6156a7e63bc5d4de556da4aa0cebe174a42932634c64614cc175"
+    },
+    "22": {
+      "file": "page-22.webp",
+      "source": "page-22-fixed2.png",
+      "width": 901,
+      "height": 1746,
+      "sha256": "26e18a12a538ff144c3d1d45159fdabb612681f627c68c4b6d17dd07b4005eea"
+    },
+    "hero-1": {
+      "file": "hero-1.webp",
+      "source": "hero-01.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "8a08b73828a715b63c6192946ee3e95305cec2e40e80a3e56b9514d108cb960f"
+    },
+    "hero-64": {
+      "file": "hero-64.webp",
+      "source": "hero-64-fixed.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "2175634a255d4e10c5be9d789008f43fcaff155d78f4ea6b1db360c7802d971a"
+    },
+    "hero-78": {
+      "file": "hero-78.webp",
+      "source": "hero-78.png",
+      "width": 887,
+      "height": 1774,
+      "sha256": "d37226a3b5ec417a1d101712c18b3907138d793de381b486f00d3811cbfe58dd"
+    }
+  },
+  "blocks": [
+    {
+      "asset": "hero-1",
+      "ids": [
+        1
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "hero-1.webp"
+    },
+    {
+      "asset": "1",
+      "ids": [
+        2,
+        3,
+        4
+      ],
+      "y": 443,
+      "end": 1774,
+      "width": 887,
+      "height": 1331,
+      "source_height": 1774,
+      "file": "page-01.webp"
+    },
+    {
+      "asset": "2",
+      "ids": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-02.webp"
+    },
+    {
+      "asset": "3",
+      "ids": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-03.webp"
+    },
+    {
+      "asset": "4",
+      "ids": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "y": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "file": "page-04.webp"
+    },
+    {
+      "asset": "5",
+      "ids": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "y": 0,
+      "end": 1759,
+      "width": 894,
+      "height": 1759,
+      "source_height": 1759,
+      "file": "page-05.webp"
+    },
+    {
+      "asset": "6",
+      "ids": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-06.webp"
+    },
+    {
+      "asset": "7",
+      "ids": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-07.webp"
+    },
+    {
+      "asset": "8",
+      "ids": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-08.webp"
+    },
+    {
+      "asset": "9",
+      "ids": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "y": 0,
+      "end": 1781,
+      "width": 883,
+      "height": 1781,
+      "source_height": 1781,
+      "file": "page-09.webp"
+    },
+    {
+      "asset": "10",
+      "ids": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-10.webp"
+    },
+    {
+      "asset": "11",
+      "ids": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-11.webp"
+    },
+    {
+      "asset": "12",
+      "ids": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-12.webp"
+    },
+    {
+      "asset": "13",
+      "ids": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "y": 0,
+      "end": 1740,
+      "width": 904,
+      "height": 1740,
+      "source_height": 1740,
+      "file": "page-13.webp"
+    },
+    {
+      "asset": "14",
+      "ids": [
+        53,
+        54,
+        55,
+        56
+      ],
+      "y": 0,
+      "end": 1808,
+      "width": 870,
+      "height": 1808,
+      "source_height": 1808,
+      "file": "page-14.webp"
+    },
+    {
+      "asset": "15",
+      "ids": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-15.webp"
+    },
+    {
+      "asset": "16",
+      "ids": [
+        61,
+        62,
+        63
+      ],
+      "y": 0,
+      "end": 1128,
+      "width": 887,
+      "height": 1128,
+      "source_height": 1774,
+      "file": "page-16.webp"
+    },
+    {
+      "asset": "hero-64",
+      "ids": [
+        64
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "hero-64.webp"
+    },
+    {
+      "asset": "17",
+      "ids": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-17.webp"
+    },
+    {
+      "asset": "18",
+      "ids": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "page-18.webp"
+    },
+    {
+      "asset": "19",
+      "ids": [
+        73,
+        74,
+        75,
+        76
+      ],
+      "y": 0,
+      "end": 1855,
+      "width": 848,
+      "height": 1855,
+      "source_height": 1855,
+      "file": "page-19.webp"
+    },
+    {
+      "asset": "20",
+      "ids": [
+        77
+      ],
+      "y": 0,
+      "end": 451,
+      "width": 892,
+      "height": 451,
+      "source_height": 1762,
+      "file": "page-20.webp"
+    },
+    {
+      "asset": "hero-78",
+      "ids": [
+        78
+      ],
+      "y": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "file": "hero-78.webp"
+    },
+    {
+      "asset": "20",
+      "ids": [
+        79,
+        80
+      ],
+      "y": 949,
+      "end": 1762,
+      "width": 892,
+      "height": 813,
+      "source_height": 1762,
+      "file": "page-20.webp"
+    },
+    {
+      "asset": "21",
+      "ids": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "y": 0,
+      "end": 1711,
+      "width": 919,
+      "height": 1711,
+      "source_height": 1711,
+      "file": "page-21.webp"
+    },
+    {
+      "asset": "22",
+      "ids": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "y": 0,
+      "end": 1746,
+      "width": 901,
+      "height": 1746,
+      "source_height": 1746,
+      "file": "page-22.webp"
+    }
+  ],
+  "status": "assembled; public-browser QA pending"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "공개 조판 검수 진행 중",
+  "art_pages_reviewed": 22,
+  "main_story_panels": 88,
+  "primary_reader_covers_every_id_once": true,
+  "remaining": [
+    "공개 모바일·데스크톱 표시",
+    "부분 표시 경계",
+    "구간 연결 최종 확인"
+  ],
+  "not_claimed": [
+    "실제 독자 조사",
+    "흥행 보장",
+    "공학 시뮬레이션 인증"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "status": "assembled; final public visual QA pending",
+  "total_cuts": 88,
+  "total_pages": 22,
+  "storyboard_review": [
+    {
+      "id": "hoist-test-01",
+      "verdict": "rejected",
+      "note": "No upper chest suspension and no physical key opening action. Replaced by hoist-test-02.",
+      "time": "2026-10-15T19:03:13"
+    },
+    {
+      "id": "hoist-test-02",
+      "verdict": "layout_accepted",
+      "note": "Chest and hip support now separate, case key action visible, same threshold return. Actual rig not engineering certified; use matching geometry in final.",
+      "time": "2026-10-15T19:03:13"
+    },
+    {
+      "id": "01",
+      "verdict": "correction_required",
+      "note": "Cut3 should use bare dirty hand not replica worn. Idol chestnut fringe must differ from Chanho. Layout readable; apply explicit corrections in final page roughs.",
+      "time": "2026-10-15T19:03:13"
+    },
+    {
+      "id": "02",
+      "verdict": "correction_required",
+      "note": "Normal turntable directions and0.9m dock setup readable. Mirror patrol needs opaque corner concealment not standing exposed. Exterior must stay night.",
+      "time": "2026-10-15T19:03:13"
+    },
+    {
+      "id": "03",
+      "verdict": "rejected",
+      "note": "Unwanted Bbeokkugi in deposit room and stair. Fixed sheet removes him but wrongly substitutes Lax for Wontouch at29 and31. Further correction required.",
+      "time": "2026-10-15T19:03:13"
+    },
+    {
+      "id": "04",
+      "verdict": "correction_required",
+      "note": "Clip difference and transfer understandable, but cut36 includes extra glove and43 omits replica in case. Must limit two gloves and keep fake upright after closing.",
+      "time": "2026-10-15T19:03:13"
+    },
+    {
+      "id": "05",
+      "verdict": "layout_accepted",
+      "note": "Normal report -> missing key -> camera -> retrieval -> blocked stair is readable. Final must keep Wontouch on dry threshold and show guards outside corridor.",
+      "time": "2026-10-15T19:19:07"
+    },
+    {
+      "id": "06",
+      "verdict": "correction_required",
+      "note": "Rotation and east routing readable. Fixed ramp must precede crossing; trench depth inconsistent. Corrected source sets40cm width1.2m depth and inclined ramp supporting worker boot.",
+      "time": "2026-10-15T19:19:07"
+    },
+    {
+      "id": "07",
+      "verdict": "correction_required",
+      "note": "Lift one-level descent and checkpoint direction clear. Dock drawn too tall; corrected source mandates0.9m deckedge at standing-person waist. Van timing corrected to approach and pull alongside.",
+      "time": "2026-10-15T19:19:07"
+    },
+    {
+      "id": "08",
+      "verdict": "layout_accepted",
+      "note": "All5 interior, protected glove, banter and registered-face consequence readable. Final81 must put Chanho inside before door shuts. No unearned camera erasure.",
+      "time": "2026-10-15T19:19:07"
+    }
+  ],
+  "page_review": [
+    {
+      "id": "1",
+      "verdict": "accepted",
+      "note": "Selected page-01-fixed.png.4 one-column panels; readable exact Korean inside art, all5 distinct, natural heroine. Corrected idol anatomical right glove viewer-left and storage-photo plaque. Time shift explicit.",
+      "time": "2026-10-15T19:19:07"
+    },
+    {
+      "id": "2",
+      "verdict": "accepted",
+      "note": "Selected page-02-fixed.png. Removed detached extra gemstone; tester contacts mounted replica.2-point training support and one-camera limit set up. Four stacked panels, Korean dialogue exact.",
+      "time": "2026-10-15T19:23:12"
+    },
+    {
+      "id": "3",
+      "verdict": "accepted",
+      "note": "Four stacked panels. Departure equipment and5 van occupants; night loading-yard geography and low dock edge shown before escape. Dialogue in-panel, heroine natural. Dock scale reads waist-high unlike rough.",
+      "time": "2026-10-15T19:25:02"
+    },
+    {
+      "id": "4",
+      "verdict": "accepted",
+      "note": "Selected page-04-fixed.png. Clear west stop -> rotation -> east stop and ramp, BB observes only normal work. Removed artificial engineering dimensions from scene. Normal small door plaques remain.",
+      "time": "2026-10-15T19:28:21"
+    },
+    {
+      "id": "5",
+      "verdict": "accepted",
+      "note": "Selected page-05-fixed.png. Idol right glove corrected by top-panel composition reversal; added clip inside cuff shown. Removed museum signs/crate labeling. Custodian has3-key brass ring; maintain entire ring theft in later pages.",
+      "time": "2026-10-15T19:32:15"
+    },
+    {
+      "id": "6",
+      "verdict": "accepted",
+      "note": "Selected page-06-fixed.png. Opaque corner now separates patrol sightline, mirror warning precedes hiding, joke after guard recedes. Only custodian/idol/security at deposit. Removed duplicate background real glove.",
+      "time": "2026-10-15T19:35:59"
+    },
+    {
+      "id": "7",
+      "verdict": "accepted",
+      "note": "Selected page-07-fixed.png. Replaced repetitive lock shot with normal card-reader authorization, then case lock/weight. Removed pre-installed body harness. Outside ledger explains marker forgotten again;3-key ring stolen after normal lock and passed to Chanho.",
+      "time": "2026-10-15T19:40:32"
+    },
+    {
+      "id": "8",
+      "verdict": "accepted",
+      "note": "Four main panels plus parallel inset. Distinct3 descend, empty vault geometry coherent, no perma harness, DD checks chest and hip. New dialogue distinguishes case key from floor authorization, explains continued floor sensor. BB outside and door entry separated.",
+      "time": "2026-10-15T19:41:48"
+    },
+    {
+      "id": "9",
+      "verdict": "accepted",
+      "note": "Four readable variable-height shots. Closed ceiling and2 separate chest/hip trolley supports visible; Wontouch controls chain/brake on pale threshold, sensor mat and case distance shown. Keyring physically used before opening. Original lifted, mount now empty, no duplicate glove.",
+      "time": "2026-10-15T19:43:44"
+    },
+    {
+      "id": "10",
+      "verdict": "accepted",
+      "note": "Selected page-10-fixed.png. Replaced external clip with inside-cuff comparison and transfer, original-left losesclip replica-right gainsclip; one short pause line. Protected original pouch vs replica case positions clear; extra ornate gem reduced.4 major panels plus wristtimer inset.",
+      "time": "2026-10-15T19:48:10"
+    },
+    {
+      "id": "11",
+      "verdict": "accepted",
+      "note": "Selected page-11-fixed.png. Corrected hand passing through closed glass, restored palm outside. Green weight success then remote3sec warning angular radio balloon, then bare-handed idol encore. Replica remains in case, no external clip.",
+      "time": "2026-10-15T19:51:36"
+    },
+    {
+      "id": "12",
+      "verdict": "accepted",
+      "note": "Selected page-12-fixed.png. Removed unearned extra white glove at stage. New BB radio warning clearly separated, empty key hook -> report -> dispatch. Restored camera shows same horizontal2-point rig and black replica; fixed vaultCAM03 ID to match training.",
+      "time": "2026-10-15T19:55:51"
+    },
+    {
+      "id": "13",
+      "verdict": "accepted",
+      "note": "Selected page-13-fixed.png. Corrected trolley toward LEFT before shoulder contact, both men boots now clearly on pale safe apron, then corridor exit. Guards changed to black uniform at distance. Original remains closed protected pouch; fake case visible. Geometry must be re-compared in assembled reader.",
+      "time": "2026-10-15T20:00:55"
+    },
+    {
+      "id": "14",
+      "verdict": "accepted",
+      "note": "Selected page-14-fixed.png. Blocked west stairs cause route change, BB separately calls van east and gives known cue, boarding only while stopped. Replaced awkward phrase with natural 멈췄어. 지금 타. Preserve3crew count and closed pouch.",
+      "time": "2026-10-15T20:04:33"
+    },
+    {
+      "id": "15",
+      "verdict": "accepted",
+      "note": "Selected page-15-fixed.png. Widewest/east plan,3 crouch behind opaquecrate, actual rotation and guard east-routing. Ramp now firmly overlaps both stoppedturntable and eastlanding BEFORE DD crosses; removed unsupported farend. Geometry causes route not new passage.",
+      "time": "2026-10-15T20:08:21"
+    },
+    {
+      "id": "16",
+      "verdict": "accepted",
+      "note": "Selected page-16-fixed2.png. Removed repeated ramp setup and corrected crossing order: DDfirst right, Chanho middle, Wlastleft. Guard running. Worker slips at adjacent uncovered part not through bridge. Kneelingcatch freehands with protectedpouch and visible trench bottom.",
+      "time": "2026-10-15T20:12:45"
+    },
+    {
+      "id": "17",
+      "verdict": "accepted",
+      "note": "Selected page-17-fixed.png. Corrected rescued worker erroneously drawn as BB: now oldergraycoverall no glasses/no vest/no pouch. W braces Ch and then worker, DD ramp supports boot, worker grounded. Oneguardhelpsothercontinueschase;3 reach same freightlift.",
+      "time": "2026-10-15T20:16:14"
+    },
+    {
+      "id": "18",
+      "verdict": "accepted",
+      "note": "Selected page-18-fixed2.png. Corrected basement labels to2F->1F and changed dock to fullbody exterior sideview: uppercrew feet atop open lowplatform, BB onlowerasphalt. No waistwall on samefloor. Liftmovement and sidecheckpoint separate. Final narrative stair must go UP to2F.",
+      "time": "2026-10-15T20:23:04"
+    },
+    {
+      "id": "19",
+      "verdict": "accepted",
+      "note": "Four panels. Personnelcheckpoint blockage distinct from open lowdock, full-sized BB provides scale. DD handvaults herself (removed needless assistedelderly step), asksforpouch, Ch visibly unclips/passes closedpouch before jumping. Guardsactive. Physicalprojection judged readable with18widecontext.",
+      "time": "2026-10-15T20:25:31"
+    },
+    {
+      "id": "20",
+      "verdict": "accepted",
+      "note": "Four clear actionpanels: freehandsCh lowhop, Wheavylanding neargrasp, samevanpullsalongside, DDwithprotectedpouch andBBboardfirst. Guardscontinue pursuit, no harnessroofescape. Wchasednotpassive. Groundscale and humancontactsreadable.",
+      "time": "2026-10-15T20:28:12"
+    },
+    {
+      "id": "21",
+      "verdict": "accepted",
+      "note": "Selected page-21-fixed.png. Chanho explicitly inside before door closes, all5 oneeach, exterior pursuitcontinues. Removed robotic glovefingers. Corrected dialogue so DDaskswhyhepaused instead of impossibly knowing tinyclip already; Ch suppliesnewinfo.",
+      "time": "2026-10-15T20:32:51"
+    },
+    {
+      "id": "22",
+      "verdict": "accepted",
+      "note": "Selected page-22-fixed2.png. Removed teleport chicken, closed vanwindow, removed unrelatedvenue/keyboard. CCTV now CLOSEsameWface without erroneous BB/hanginglegs, CAM03and22:41:26 consistent. Face/plate consequence, no erasedrecords.4 panels with warm banter.",
+      "time": "2026-10-15T20:40:55"
+    },
+    {
+      "id": "13",
+      "verdict": "accepted",
+      "note": "FINAL selectedpage-13-fixed2.png. Fullsequence comparison rejected widenedmat shortcut. Restored larger pressurezone and changed landingcameraangle to INSIDE lookingOUT: all4boots OUTSIDEon corridortile, matforeground separate. Trolleyreturn left -> shoulder steady -> corridorlanding now physicallyreadable.",
+      "time": "2026-10-15T20:55:53"
+    }
+  ],
+  "accepted_final_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "scope": "Full episode requested: storyboard, fixes, webtoon, public deployment. Do not stop at roughs if visual gates pass.",
+  "updated": "2026-10-15T20:55:53",
+  "hero_review": [
+    {
+      "id": "1",
+      "verdict": "accepted",
+      "note": "Portraitopening same moment and correct rightglove/leftmic, onepinkgem, livearena scale, big in-panelcaption. Replaces cut1 no duplicate.",
+      "time": "2026-10-15T20:47:58"
+    },
+    {
+      "id": "64",
+      "verdict": "accepted",
+      "note": "Selected hero-64-fixed.png. Firstportrait rejected as worker safely seated; corrected actual imbalance with feet still searching and visiblebottom. Kneelinghero grounded,2hands grip, closedpouch, farpursuer gives time stakes. Replacescut64.",
+      "time": "2026-10-15T20:47:58"
+    },
+    {
+      "id": "78",
+      "verdict": "accepted",
+      "note": "Portraitlowdocklanding same moment, fingertips clearlyMISScollar unlike ambiguous initialpage20, fourcrewoneeach, DDclosedpouch, approachingvan. Realbentknees no superpower. Replacescut78.",
+      "time": "2026-10-15T20:47:58"
+    }
+  ],
+  "selected_pages": {
+    "1": "page-01-fixed",
+    "2": "page-02-fixed",
+    "3": "page-03",
+    "4": "page-04-fixed",
+    "5": "page-05-fixed",
+    "6": "page-06-fixed",
+    "7": "page-07-fixed",
+    "8": "page-08",
+    "9": "page-09",
+    "10": "page-10-fixed",
+    "11": "page-11-fixed",
+    "12": "page-12-fixed",
+    "13": "page-13-fixed2",
+    "14": "page-14-fixed",
+    "15": "page-15-fixed",
+    "16": "page-16-fixed2",
+    "17": "page-17-fixed",
+    "18": "page-18-fixed2",
+    "19": "page-19",
+    "20": "page-20",
+    "21": "page-21-fixed",
+    "22": "page-22-fixed2"
+  },
+  "selected_heroes": {
+    "1": "hero-01",
+    "64": "hero-64-fixed",
+    "78": "hero-78"
+  }
+}
