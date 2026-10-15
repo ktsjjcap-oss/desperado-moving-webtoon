@@ -1,0 +1,17 @@
+[
+  {
+    "file": "images/01-briefing.png",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a12fe2-9c01-7040-a2fa-f30f2ff065d7\\exec-67d110b8-9879-42f3-8c39-43cb76a140c2.png",
+    "sha256": "728bd664432be189b11d665ec1592f43467791211676830ab30296c1ef3da235"
+  },
+  {
+    "file": "images/02-delivery.png",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a12fe2-9c01-7040-a2fa-f30f2ff065d7\\exec-d51911e8-cede-4551-9b25-b4ea999d1012.png",
+    "sha256": "2df475baa957b25a5ab9dec30d60ed1e91a2a009271fd4001c6be65f5a3b4d7e"
+  },
+  {
+    "file": "images/03-custody.png",
+    "source": "C:\\Users\\user\\.codex\\generated_images\\01a12fe2-9c01-7040-a2fa-f30f2ff065d7\\exec-1a516a4e-db30-4039-a3ea-b8fd094ab9c3.png",
+    "sha256": "de02ed7caf3255fdc92f8a252960752c061ca744f2d20d1b41dba99083c5fe9e"
+  }
+]
