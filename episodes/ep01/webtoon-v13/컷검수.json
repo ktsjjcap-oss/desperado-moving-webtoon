@@ -1,0 +1,588 @@
+{
+  "mode": "built-in image_gen",
+  "full_episode_approved": false,
+  "cuts": [
+    {
+      "id": 1,
+      "status": "rejected",
+      "source": "exec-913b3021-f280-455d-96a3-22e99e72a5a9.png",
+      "file": null,
+      "dimensions": null,
+      "review": "관객 기준 오른쪽으로 든 팔은 가수 본인 왼팔이다. 장갑 오른손·마이크 왼손 설정과 반대여서 탈락. 얼굴·공연 규모·젊은 인상은 유지하고 전체 좌우 구도를 반전한다.",
+      "reviewed_at": "2026-10-15T05:42:43.781577+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 1,
+      "status": "accepted",
+      "source": "exec-cb9d8ae5-f754-4fce-ad66-46f56d2053ee.png",
+      "file": "images/01.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "좌우 반전 후 가수 본인 오른손 장갑·왼손 마이크 확인. 젊은 얼굴, 한 개 분홍 보석, 객석과 천장 규모 유지. 단일 세로 도입 컷으로 채택. 회차 연결·최종 조판은 별도 검수.",
+      "reviewed_at": "2026-10-15T05:44:09.806700+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 2,
+      "status": "rejected",
+      "source": "exec-ca7b2250-5b78-4cad-9206-e16995dba965.png",
+      "file": null,
+      "dimensions": null,
+      "review": "딱지 얼굴·성인 체형·검사 실패·한 개 복제품은 명확하다. 하지만 보석이 도입의 사각 에메랄드 컷과 달리 둥근 형태여서 복제품 외형이 맞지 않는다. 보석 세팅만 맞춰 재검수.",
+      "reviewed_at": "2026-10-15T05:46:49.968530+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 2,
+      "status": "accepted",
+      "source": "exec-cd5b390d-4c28-4f47-b6c3-3712703716b3.png",
+      "file": "images/02.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "보석을 사각 핑크 에메랄드 컷으로 맞춘 수정본 확인. 복제품 하나만 보호 홈에 있고 접촉 프로브와 붉은 실패 표시가 함께 보인다. 딱지 얼굴·단발·의상·성인 볼륨감 유지. 설명을 넣기 전에도 검사 실패가 읽힌다.",
+      "reviewed_at": "2026-10-15T05:50:14.503090+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 3,
+      "status": "accepted",
+      "source": "exec-be9ba0b8-ec2d-4166-aa8a-ab973d36ea50.png",
+      "file": "images/03.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "찬호 왼쪽의 장난스러운 표정과 원타치 오른쪽의 무표정 반응이 서로를 향한다. 두 남자 얼굴·체격 구분, 원타치의 큰 손, 딱지 소매와 닫힌 보호 케이스를 확인. 가품이 케이스 밖에 재등장하지 않는다. 대사 첫 발화 왼쪽→응답 오른쪽으로 조판.",
+      "reviewed_at": "2026-10-15T05:53:08.326193+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 4,
+      "status": "accepted",
+      "source": "exec-5f05aeaf-3136-49ee-b34c-35fc51152f32.png",
+      "file": "images/04.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "본인 얼굴의 업무증을 챙기는 세 사람과 현장 근무 사진 두 장이 실제로 보인다. 딱지와 락스 앞쪽, 두 남자 뒤쪽으로 시선 집중이 나뉘어 단순 단체 설명 그림을 피했다. 추가 뻐꾸기는 원래 팀원이며 서류를 든 배경 인물로만 등장한다. 가명 근무 기간은 별도 시간 설명으로 조판한다.",
+      "reviewed_at": "2026-10-15T05:59:09.922268+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 5,
+      "status": "accepted",
+      "source": "exec-57ed262e-7619-4cd1-8bbb-669e263e6294.png",
+      "file": "images/05.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "A4 사진 세 장이 일반 책상 규모로 놓였고, 회수실 문·CCTV 복도·트럭 하역장이 구분된다. 락스는 내부 사진, 찬호는 하역장 사진을 각각 가리켜 발화 위치와 의미가 맞는다. 과장된 지도나 경로 화살표 없이 관찰한 출입 경계를 설명하는 컷으로 채택.",
+      "reviewed_at": "2026-10-15T06:02:06.182064+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 6,
+      "status": "rejected",
+      "source": "exec-5461428e-3df0-4939-ac43-4a8ad8d58a21.png",
+      "file": null,
+      "dimensions": null,
+      "review": "봉인·실물/사진 구별·두 사람 얼굴은 좋으나 비밀 준비 작업실 배경에 정장 보안요원이 임의 등장했다. 직원 옆 범행 설명이라는 이전 오류를 다시 만들므로 즉시 탈락. 배경 직원만 제거하고 작업실로 복구한다.",
+      "reviewed_at": "2026-10-15T06:04:50.721188+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 6,
+      "status": "accepted",
+      "source": "exec-884e3043-d34a-4b6a-984b-6b4827d45ef6.png",
+      "file": "images/06.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "임의 경비를 제거한 수정본 확인. 실제 방 안에는 딱지와 찬호 두 사람뿐이다. 실물 닫힌 케이스와 손에 든 원본 케이스 사진이 구분되고 흰 종이 봉인 위치도 대응한다. 보호 상태를 유지한 준비 컷으로 채택. 봉인 번호 유사성은 육안 수준이며 재감정 실패 규칙을 유지한다.",
+      "reviewed_at": "2026-10-15T06:07:21.331370+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 7,
+      "status": "rejected",
+      "source": "exec-764906d5-ae14-4e0b-87a5-0a492c2cd608.png",
+      "file": null,
+      "dimensions": null,
+      "review": "두 사람 전신·성격·무게 부담은 잘 읽힌다. 그러나 원타치의 지지 손이 아래 한 곳만 보여 판을 한 손으로 들거나 다른 팔이 사라진 것처럼 읽힌다. 실제 교환의 핵심이므로 위쪽 두 번째 손과 지지점을 보이게 수정.",
+      "reviewed_at": "2026-10-15T06:12:49.330956+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 7,
+      "status": "rejected",
+      "source": "exec-533e2b79-1cbe-4a9d-a416-f7afe2f70a93.png",
+      "file": null,
+      "dimensions": null,
+      "review": "추가 손이 판 반대편에 붙어 찬호에게 세 번째 팔이 생긴 것처럼 읽힐 수 있다. 원타치 팔의 연결이 보이지 않아 탈락. 두 팔을 몸통 아래에서 보이게 하고 두 손 모두 판 아래를 받치는 자연스러운 운반 자세로 바꾼다.",
+      "reviewed_at": "2026-10-15T06:16:13.642848+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 7,
+      "status": "accepted",
+      "source": "exec-b96dddb6-fb2b-4823-ae0c-53e8a601151d.png",
+      "file": "images/07.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "두 번째 수정에서 낯선 위쪽 손을 없애고 원타치의 두 손이 판 아래를 받치도록 정리했다. 바닥에 선 두 발·굽힌 무릎·가슴에 기댄 판·하부 두 지지점이 함께 보인다. 찬호 양손은 비어 있으며 별도 팔이 붙지 않는다. 인물 표정과 준비 대사의 코미디도 읽힌다. 엄밀한 물리 시뮬레이션 검증은 아니다.",
+      "reviewed_at": "2026-10-15T06:20:12.094351+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 8,
+      "status": "accepted",
+      "source": "exec-42bfba05-1b45-44bb-b113-59f84fda2c4e.png",
+      "file": "images/08.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "운전 락스는 정면 밖 시점의 오른쪽, 딱지는 앞 왼쪽, 뒤에 찬호·원타치·뻐꾸기 세 명으로 깊이가 구분된다. 다섯 얼굴·의상과 뻐꾸기 서류, 대시보드 노란 업무 전화가 분명하다. 음식·지도 없이 사적인 농담을 주고받는 출발 컷. 마지막에는 딱지의 앞 왼쪽 자리를 비워 대비해야 한다.",
+      "reviewed_at": "2026-10-15T06:24:37.855952+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 9,
+      "status": "rejected",
+      "source": "exec-13518494-b0f7-428e-b590-5b7d87a0a5d9.png",
+      "file": null,
+      "dimensions": null,
+      "review": "세 업무 구역·배경판 보관·카메라·차량은 읽힌다. 그러나 출입 확인 직원이 귀중품 책임자와 같은 차콜 정장·흰 취급 장갑으로 생성되어 역할이 섞인다. 일반 출입 확인 직원을 네이비 유니폼·맨손으로 구분하고 서류 쪽 임의 흰 장갑도 제거한다.",
+      "reviewed_at": "2026-10-15T06:29:14.188818+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 9,
+      "status": "accepted",
+      "source": "exec-8a9f3c59-daac-4d28-a0cd-6888c5e72934.png",
+      "file": "images/09.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "출입 확인 직원을 네이비 유니폼·맨손으로 분리한 수정본. 왼쪽 출입 확인의 딱지, 가운데 정상 배경판 철수의 찬호·원타치, 오른쪽 반출 서류의 뻐꾸기가 서로 다른 업무를 한다. CCTV와 밖의 검정 밴, 판을 모아둔 현장 보관대가 함께 보인다. 이름표를 건물에 크게 붙이지 않았다.",
+      "reviewed_at": "2026-10-15T06:37:01.754504+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 10,
+      "status": "accepted",
+      "source": "exec-a03f6de0-56ec-41d0-80f3-f777ed5d5bee.png",
+      "file": "images/10.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "입구 여경비가 사진 기록을 확인하고 맨손으로 안쪽을 안내한다. 딱지는 고정 의상·성인 체형·업무증을 유지하며 정장 경비가 문에서 기다린다. 근처 직원에게 비밀 무전을 하는 동작이 없다. 다음 회수실 진입까지 동행 관계를 이어야 한다.",
+      "reviewed_at": "2026-10-15T06:40:55.145997+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 11,
+      "status": "accepted",
+      "source": "exec-65b62965-065b-4c41-9078-219da39e729c.png",
+      "file": "images/11.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "작업증을 단 두 남자가 노란 출입 경계선 밖에 멈춰 있고 담당자가 선과 보관 판을 가리킨다. 허용 구획·닫힌 내부 문·고객 소유 다중 보관대가 한 화면에 있어 판 한 장만 옮기는 업무가 이해된다. 담당자 두 발화는 모두 오른쪽 인물로 조판해야 한다.",
+      "reviewed_at": "2026-10-15T06:44:52.004657+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 12,
+      "status": "accepted",
+      "source": "exec-57e0a0a2-6633-40df-9754-7856db3218f9.png",
+      "file": "images/12.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "뻐꾸기 놀라는 표정과 담당자의 무덤덤한 반응, 뒤집어 보여주는 서류·다시 잡은 펜이 같은 컷에 보인다. 두 손씩 정상이며 귀중품 담당자와 섞이지 않는다. 서류 지연을 생활 개그로 읽을 수 있고 다음 반출 승인 때 이 서류를 회수해야 한다.",
+      "reviewed_at": "2026-10-15T06:49:35.315080+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 13,
+      "status": "rejected",
+      "source": "exec-27501cf4-9aca-4695-9eb7-f01bd31614d9.png",
+      "file": null,
+      "dimensions": null,
+      "review": "가수 오른손 장갑·왼손 마이크, 다섯 인물 역할, 보호 홈 빈 상태는 맞다. 하지만 검사대에 별도 분홍 보석이 임의로 생겨 진품이 동시에 두 곳에 있는 것처럼 보인다. 검사대의 임의 보석만 제거해야 한다.",
+      "reviewed_at": "2026-10-15T06:53:54.994423+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 13,
+      "status": "accepted",
+      "source": "exec-7a120450-6f7b-4770-b7d7-00a4112e3909.png",
+      "file": "images/13.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "검사대의 중복 보석을 지운 수정본. 진품은 가수 본인 오른손에만 있고 왼손 마이크가 유지된다. 책임자 흰 두 손이 빈 맞춤 홈 케이스를 받치고, 딱지·의상 담당자·정장 경비가 서로 다른 역할과 위치로 보인다. 피아노 대사와 다음 장갑 회수가 연결된다.",
+      "reviewed_at": "2026-10-15T06:58:05.676877+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 14,
+      "status": "accepted",
+      "source": "exec-344a92f9-cc90-482b-ac79-8ed014320724.png",
+      "file": "images/14.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "진품 한 짝이 맨 오른손에서 맞춤 보호 홈으로 들어가는 접점을 확인. 직전 마이크는 뒤 벤치에 내려놓여 손 사용이 충돌하지 않는다. 보석은 장갑에만 있고 맨 테이블에는 놓이지 않는다. 책임자의 흰 손과 가수 반짝이 소매가 구분되어 무대사 인계 컷으로 채택.",
+      "reviewed_at": "2026-10-15T07:02:36.752892+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 15,
+      "status": "accepted",
+      "source": "exec-0a83eb86-ba4c-45da-8f97-a166c18df222.png",
+      "file": "images/15.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "진품은 열린 보호 케이스 안에서 검사되고 초록 체크가 크게 보인다. 준비 때 복제품 붉은 실패와 색·의미로 대비된다. 책임자·딱지·동행 경비가 모두 현장에 있으며 검사대를 빈 채로 통과시키거나 가짜를 인증하지 않는다. 보석 한 개·케이스 한 개 상태 유지.",
+      "reviewed_at": "2026-10-15T07:06:38.428988+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 16,
+      "status": "accepted",
+      "source": "exec-15d80ead-2890-4f07-b979-aad12e3b16b1.png",
+      "file": "images/16.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "검사 뒤 닫힌 케이스에 준비 장면과 같은 위치의 종이 봉인이 생겼다. 책임자 흰 손과 딱지 맨손이 케이스 아래를 받쳐 인계하며 정장 경비가 바로 뒤에 남아 있다. 보석은 케이스 안에 보호되고 단독 반출로 건너뛰지 않는다.",
+      "reviewed_at": "2026-10-15T07:11:46.117709+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 17,
+      "status": "accepted",
+      "source": "exec-9e35ffc6-fdb6-4285-8c35-8e7bf9a52a4f.png",
+      "file": "images/17.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "앞선 오른쪽 내부 문과 노란 경계를 유지한다. 딱지가 근경 쪽 왼손으로 진품을 들고 나오고 경비가 바로 뒤, 두 남자는 하역 구획에 있다. 열린 큰 은회색 함 속 가품과 딱지 손의 진품이 동시에 분리돼 보인다. 판 보관대·실제 판·함·CCTV가 모두 선행되어 새 소품 순간 생성 없이 다음 동작을 검토할 수 있다.",
+      "reviewed_at": "2026-10-15T07:17:52.899892+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 18,
+      "status": "rejected",
+      "source": "exec-976aca77-95c4-49e6-8bd7-a9ba960f1eb3.png",
+      "file": null,
+      "dimensions": null,
+      "review": "경비의 제지 손이 왼쪽 작업자들이 아니라 오른쪽 빈 공간을 향한다. 또 전경17과 거의 같은 크기·배치를 반복해 새로운 정보 대비가 약하다. 오른쪽 두 사람의 중경으로 재구도하고 경비 손·시선을 왼쪽 작업자에게 향하게 다시 그린다.",
+      "reviewed_at": "2026-10-15T07:21:52.481305+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 18,
+      "status": "rejected",
+      "source": "exec-d7c44aca-a460-4fe8-96e8-4b76fb64133d.png",
+      "file": null,
+      "dimensions": null,
+      "review": "재구도와 제지 방향은 좋아졌으나 정면 딱지의 진품 케이스가 본인 오른손으로 바뀌었다. 앞 전경의 왼손 진품과 뒤 교환의 손 상태를 유지해야 하므로 케이스를 본인 왼손(관객 기준 오른쪽)으로 수정한다.",
+      "reviewed_at": "2026-10-15T07:24:18.751459+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 18,
+      "status": "accepted",
+      "source": "exec-1516659b-471d-4261-8a69-17b2fbf2380d.png",
+      "file": "images/18.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "중경으로 반복을 줄였다. 경비 손과 시선이 왼쪽 작업자 쪽을 향한다. 딱지 왼손(화면 오른쪽)이 진품 케이스를 유지하고 오른손은 빈 상태. 인물·문·판 가장자리 연속 확인.",
+      "reviewed_at": "2026-10-15T07:28:46.959066+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 19,
+      "status": "accepted",
+      "source": "exec-10fc6608-9c9a-43f9-8804-49ddee76264e.png",
+      "file": "images/19.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "원타치 두 손 아래 프레임 지지와 바닥 지지 확인. 찬호 실제 그림은 오른손으로 가품을 꺼내고 왼손이 빈다. 제작 대본도 이 실제 손 방향으로 갱신해 이후 두 교환 컷을 일치시킨다. 열린 은회색 공구함·같은 봉인 케이스·허용 구획 유지.",
+      "reviewed_at": "2026-10-15T07:31:06.752855+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 20,
+      "status": "accepted",
+      "source": "exec-21a43091-ef81-40c8-970d-a16b6714e04d.png",
+      "file": "images/20.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "画面左 찬호 오른손·오른쪽 딱지 오른손이 가품 손잡이를 주고받는다. 딱지 왼손의 진품 케이스는 화면 오른쪽에 별도로 유지된다. 찬호 빈 왼손은 아래에서 잠시 가품 바닥을 받치지만 손잡이를 잡지 않아 다음 수령 동작 가능. 두 케이스·봉인·소매 구분 확인.",
+      "reviewed_at": "2026-10-15T07:32:14.238859+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 21,
+      "status": "rejected",
+      "source": "exec-6bed22c6-6971-481c-b675-99d839c8b261.png",
+      "file": null,
+      "dimensions": null,
+      "review": "앞 컷과 같은 오른손끼리 교환을 반복해 진품 전달이 안 보인다. 불채택. 왼손끼리의 두 번째 전달로 재제작.",
+      "reviewed_at": "2026-10-15T07:33:26.676657+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 21,
+      "status": "rejected",
+      "source": "exec-af839ee4-7453-4f45-9591-79bed0adbd08.png",
+      "file": null,
+      "dimensions": null,
+      "review": "찬호 왼손은 수정됐으나 딱지 오른손이 계속 중앙 전달에 있어 가품을 되돌려 주는 그림이다. 딱지 등 뒤 방향으로 카메라를 옮겨 왼손 진품·오른손 가품 상태를 명확히 재제작.",
+      "reviewed_at": "2026-10-15T07:34:42.612146+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 21,
+      "status": "accepted",
+      "source": "exec-5c0a4e5c-0a7b-437f-a25e-2b898472f565.png",
+      "file": "images/21.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "딱지 뒷모습으로 시점 변경. 왼손 진품을 찬호 오른손에 넘기고 오른손 가품은 몸 옆에 유지한다. 앞 컷의 가품 수령과 다른 물건·다른 손 상태가 읽힌다. 불필요한 판 바퀴도 제거. 찬호 진품 수령 손은 실제 그림에 따라 오른손으로 확정.",
+      "reviewed_at": "2026-10-15T07:37:06.070551+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 22,
+      "status": "accepted",
+      "source": "exec-63546353-9c8e-47f5-99db-9c77fe566ab9.png",
+      "file": "images/22.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "진품 케이스가 같은 은회색 운송함 안에 들어가고 왼손이 손잡이, 오른손이 뚜껑을 지지한다. 수령 후 양손으로 잡아 옮긴 상태로 연결. 원타치 두 손 판 지지·힘든 표정·같은 동선 유지. 다음 적재 컷에서는 함을 닫은 결과를 보여야 한다.",
+      "reviewed_at": "2026-10-15T07:38:15.753045+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 23,
+      "status": "accepted",
+      "source": "exec-b8997fc2-1339-49d1-a67a-fb0ba2356547.png",
+      "file": "images/23.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "딱지 오른손 가품·빈 왼손 유지. 경비가 작업자 반대인 회수실 문으로 안내하며 재확인 요구. 18컷의 제지 손짓과 목적·방향이 다르다. 표정과 봉인 연속 확인.",
+      "reviewed_at": "2026-10-15T07:39:34.155484+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 24,
+      "status": "accepted",
+      "source": "exec-00684ed7-4974-4057-ab0c-4c52982dcd60.png",
+      "file": "images/24.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "큰 세로 반응 컷. 경비 쪽 시선·절제한 미소, 공개된 양손·오른손 케이스 유지. 단발·금귀걸이·상의·성인 체형 연속. 무전이나 범행 설명 없이 동행 선택을 읽힌다.",
+      "reviewed_at": "2026-10-15T07:40:51.646666+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 25,
+      "status": "accepted",
+      "source": "exec-4990d1cd-2d99-449f-b3b1-f655585d5331.png",
+      "file": "images/25.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "앞 접수 컷과 같은 뻐꾸기·회색 폴로 담당자. 완료된 두 장 서류 반환·진행 손짓이 보인다. 뒤 정상 적재 작업과 열린 검정 밴으로 다음 이동을 연결한다. 배경 일반 작업자는 주역과 혼동되는 복장이 아니다.",
+      "reviewed_at": "2026-10-15T07:42:04.534486+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 26,
+      "status": "accepted",
+      "source": "exec-a07c72b4-c499-4f69-a9cf-dd4c3306fe96.png",
+      "file": "images/26.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "검정 밴 열린 후면, 닫힌 은회색 함 적재턱 지지·찬호 두 손·원타치 배경판 지지·뻐꾸기 서류 확인. 진품이 노출되지 않는다. CCTV가 정상 기록하고 정상 철수 동작이 유지된다. 판은 차량 안 세로 적재 가능한 크기.",
+      "reviewed_at": "2026-10-15T07:43:37.065337+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 27,
+      "status": "accepted",
+      "source": "exec-d5f6fac5-f4ce-42a6-b5c4-c0f582aaeb66.png",
+      "file": "images/27.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "같은 회수실·책임자·검사 장치. 보호 홈 안 한 짝 장갑·각진 분홍 보석 하나·개봉된 종이 봉인·큰 붉은 X를 확인했다. 딱지와 경비가 함께 결과를 보며 최초 진품 감정과 가품 재감정의 차이가 읽힌다.",
+      "reviewed_at": "2026-10-15T07:45:00.468801+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 28,
+      "status": "rejected",
+      "source": "exec-ca189a0a-dc35-4c60-84e5-1c15d18d036f.png",
+      "file": null,
+      "dimensions": null,
+      "review": "경비가 원타치와 유사한 작업복·버건디 셔츠로 바뀌어 배역 혼동. 정장 흰셔츠 검정넥타이의 같은 동행 경비로 수정. 휴대전화처럼 보이는 물건도 현장 무전기로 수정.",
+      "reviewed_at": "2026-10-15T07:46:28.488825+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 28,
+      "status": "accepted",
+      "source": "exec-4d83c312-426d-4024-a546-72dac7595f70.png",
+      "file": "images/28.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "같은 정장·흰셔츠·넥타이의 동행 경비로 복구. 문을 막고 소형 무전기로 연락하며 딱지는 검사대 앞에 남고 책임자가 가품 케이스를 확보. 물건·인물·출구 통제가 함께 읽힌다.",
+      "reviewed_at": "2026-10-15T07:47:46.173419+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 29,
+      "status": "rejected",
+      "source": "exec-ac613aa8-5f80-4c33-83db-f1900d439c3a.png",
+      "file": null,
+      "dimensions": null,
+      "review": "관제 구성은 좋으나 상단 왼쪽 재생 화면에 당시 접수대에 있던 뻐꾸기가 추가되고 경비가 누락됐다. 해당 CCTV 화면만 실제 접점 인물 구성으로 수정.",
+      "reviewed_at": "2026-10-15T07:49:11.763797+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 29,
+      "status": "accepted",
+      "source": "exec-dd424298-5018-4b99-8a5c-a8a1ed03d1ad.png",
+      "file": "images/29.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "관제 화면 인원을 접점의 네 명으로 수정했고 뻐꾸기는 제거했다. 배경판 가림·찬호와 원타치의 기록된 얼굴·출고 밴이 모두 남는다. 관제 직원 무전과 출입 기록으로 대응하며 해킹·영상 삭제 없이 위협을 이어간다.",
+      "reviewed_at": "2026-10-15T07:50:51.921329+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 30,
+      "status": "accepted",
+      "source": "exec-9354ac99-0d68-4324-bfa7-17ef4f250ebd.png",
+      "file": "images/30.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "출발 컷과 같은 앞유리 시점. 운전자 락스는 화면 오른쪽·딱지 자리 왼쪽은 비어 있으며 뒤 세 명만 있어 총 네 명. 같은 노란 업무 전화가 대시보드에 남는다. 외부 대기·걱정 시선과 빈자리가 명확.",
+      "reviewed_at": "2026-10-15T07:52:23.347606+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 31,
+      "status": "accepted",
+      "source": "exec-538218d6-9289-445d-bec3-9f2dfdd79e59.png",
+      "file": "images/31.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "밴 화물칸·큰 은회색 함 안 작은 보호 케이스를 직접 열어 진품을 확인한다. 한 짝 검정 장갑·각진 분홍 보석 하나·찬호의 정상 양손, 케이스가 갑자기 무릎 위에 나타나지 않는 동작을 확인했다.",
+      "reviewed_at": "2026-10-15T07:53:47.370041+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 32,
+      "status": "accepted",
+      "source": "exec-ba069773-5e3a-47e0-9eab-7b7c2845548d.png",
+      "file": "images/32.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "찬호 세로 클로즈업, 뒤 운송함에서 닫힌 작은 케이스를 꺼낸 상태를 정상 양손으로 받친다. 빈 앞좌석 쪽 시선·걱정 섞인 결심. 무력 재진입·초능력 없이 동료를 기다리겠다는 선택을 읽힌다.",
+      "reviewed_at": "2026-10-15T07:55:30.132665+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 33,
+      "status": "rejected",
+      "source": "exec-c39d6fe9-0a75-4692-8684-d5550bebb90d.png",
+      "file": null,
+      "dimensions": null,
+      "review": "업체 명단·전화·딱지 통제는 적합하나 배경 모니터에서 찬호 옷과 차량이 달라졌다. 이미 앞 관제 컷으로 기록이 제시됐으므로 중복 모니터 자체를 제거해 잘못된 회상 정보와 반복을 줄인다.",
+      "reviewed_at": "2026-10-15T07:57:18.415999+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 33,
+      "status": "accepted",
+      "source": "exec-feeefb6e-9923-4f5f-a636-c03469e04de6.png",
+      "file": "images/33.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review": "잘못된 중복 CCTV 화면 제거. 경비가 정상 업체 명단을 짚고 제복 직원이 유선 전화로 연락한다. 딱지는 방 안 의자에 남고 출구는 경비 뒤. 전화가 갑자기 온 구조자 연락이 아니라 기록 추적의 결과라는 흐름을 확인.",
+      "reviewed_at": "2026-10-15T07:58:47.922087+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    },
+    {
+      "id": 34,
+      "status": "accepted",
+      "source": "exec-f3d40dd0-61c9-47de-bbff-082ad271658c.png",
+      "file": "images/34.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review": "큰 세로 결말. 앞 조수석은 딱지 없이 닫힌 진품 케이스만 놓여 있고, 찬호는 뒤에서 기대어 락스를 본다. 총 네 명·좌석 배치 유지. 락스가 앞서 보였던 노란 범퍼 전화로 응답하며 대시보드는 검정 거치대만 남음. 기록 추적 전화와 동료 복귀 과제가 이어진다.",
+      "reviewed_at": "2026-10-15T08:00:34.932053+00:00",
+      "limits": "Single-panel editorial review; full sequence approval pending."
+    }
+  ]
+}
