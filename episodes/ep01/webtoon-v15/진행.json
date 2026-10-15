@@ -1,5 +1,5 @@
 {
-  "status": "complete — v15 published and visual QA finished",
+  "status": "superseded — v15 story rejected by user",
   "total_cuts": 88,
   "total_pages": 22,
   "storyboard_review": [
@@ -279,8 +279,10 @@
     "64": "hero-64-fixed",
     "78": "hero-78"
   },
-  "full_episode_approved": true,
+  "full_episode_approved": false,
   "completed": "2026-10-15T21:12:37",
   "public_url": "https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/webtoon-v15/",
-  "final_review": "최종검수.json"
+  "final_review": "최종검수.json",
+  "story_approved": false,
+  "withdrawal_reason": "사용자 반려: 줄에 매달린 장갑 탈취는 미션 임파서블 모방이며 핵심 작전이 재미없음. 화면 QA와 별개로 서사 채택 철회."
 }

@@ -1,5 +1,5 @@
 {
-  "status": "v15 정지웹툰 게재본 채택 — 실제 컷 수정 및 공개 조판 검수 완료",
+  "status": "superseded — v15 story rejected by user",
   "date": "2026-10-15",
   "main_story_panels": 88,
   "selected_color_pages": 22,
@@ -113,5 +113,7 @@
     "네이버 순위 보장",
     "인양 장비 공학 인증 또는 물리 엔진 시험"
   ],
-  "generation": "내장 image_gen 생성·수정. 원본 PNG 보존, WebP 형식 변환. 브라우저 표시 영역을 이용한 조판이며 픽셀을 코드로 다시 그리지 않았다."
+  "generation": "내장 image_gen 생성·수정. 원본 PNG 보존, WebP 형식 변환. 브라우저 표시 영역을 이용한 조판이며 픽셀을 코드로 다시 그리지 않았다.",
+  "story_approved": false,
+  "withdrawal_reason": "사용자 반려: 줄에 매달린 장갑 탈취는 미션 임파서블 모방이며 핵심 작전이 재미없음. 화면 QA와 별개로 서사 채택 철회."
 }
