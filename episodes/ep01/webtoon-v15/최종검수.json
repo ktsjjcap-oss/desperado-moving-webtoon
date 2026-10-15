@@ -1,16 +1,117 @@
 {
-  "status": "공개 조판 검수 진행 중",
-  "art_pages_reviewed": 22,
+  "status": "v15 정지웹툰 게재본 채택 — 실제 컷 수정 및 공개 조판 검수 완료",
+  "date": "2026-10-15",
   "main_story_panels": 88,
-  "primary_reader_covers_every_id_once": true,
-  "remaining": [
-    "공개 모바일·데스크톱 표시",
-    "부분 표시 경계",
-    "구간 연결 최종 확인"
+  "selected_color_pages": 22,
+  "portrait_replacements": [
+    1,
+    64,
+    78
   ],
+  "primary_reader_blocks": 26,
+  "unique_selected_color_assets": 25,
+  "public_url": "https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/webtoon-v15/",
+  "visual_checks": [
+    {
+      "area": "인양·회수",
+      "verdict": "채택",
+      "evidence": "독립 가슴·골반 지지, 고정 천장 레일, 조작 손, 닫힌 보관함의 키 개봉을 확인. 회수 시 위치를 왼쪽으로 옮기고 착지 앵글을 문 밖 복도 타일로 바꿔 감지 바닥과 발을 분리했다.",
+      "pages": [
+        8,
+        9,
+        10,
+        11,
+        13
+      ]
+    },
+    {
+      "area": "소품·정보 인과",
+      "verdict": "채택",
+      "evidence": "정상 카드 인증→키 고리3개 정상 잠금→정상 보관 후 스틸→클립 차이 발견·내부 이전→같은 검사 통과→앙코르 재출고 요청→키 분실 신고→영상 확인. 추가 장갑·로봇 장갑·대사 정보 선취를 수정했다.",
+      "pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        21
+      ]
+    },
+    {
+      "area": "플랫폼·구조",
+      "verdict": "채택",
+      "evidence": "정상 작업에서 보인 회전과 고정 동서 승하차를 회수. 양 끝 접점 없는 발판과 잘못된 통과 순서를 재작업했다. 구조 대상은 뻐꾸기와 다른 회색 작업복 직원으로 분리했고, 경비는 구조와 추적을 병행한다.",
+      "pages": [
+        4,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "area": "외부 합류",
+      "verdict": "채택",
+      "evidence": "계단으로2F 서비스 구역 접근, 승강대로1F 하역장 하강. 개방된 낮은 하역장 앞면과 측면 보행 검문을 별도 전경에 그렸다. 딱지 자력 하차→보호 파우치 전달→찬호·원타치 하차→차량 합류→다섯 명 탑승을 확인했다.",
+      "pages": [
+        3,
+        8,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "area": "대사·결말",
+      "verdict": "채택",
+      "evidence": "말풍선을 컷 안에 두고 무전 출처를 구분. 모르는 클립을 이미 아는 대사를 질문으로 바꾸고 설명이 답으로 오게 했다. 즉석 치킨 소품, 열린 차량 문, 잘못된 CCTV 인물·날짜·키 보관함을 제거했다. 등록 얼굴과 영상·차량 기록이 다음 문제로 남는다.",
+      "pages": [
+        11,
+        12,
+        14,
+        21,
+        22
+      ]
+    }
+  ],
+  "browser_checks": {
+    "mobile": {
+      "configured_viewport": [
+        390,
+        844
+      ],
+      "content_width": 375,
+      "scroll_width": 375,
+      "all_main_images_loaded": 26,
+      "hero_display_height_px": [
+        750,
+        750,
+        750
+      ],
+      "horizontal_overflow": false
+    },
+    "desktop": {
+      "configured_viewport": [
+        1280,
+        900
+      ],
+      "content_width": 1265,
+      "scroll_width": 1265,
+      "reader_width": 900,
+      "horizontal_overflow": false
+    },
+    "interactions": "26개 구간 확대·닫기 실제 동작 확인. 큰 글씨 대사 표시 확인. 주요 부분 표시 경계와 회수 화면, 구조 확대 전후를 육안 확인."
+  },
+  "narrative_judgment": "관찰로 작은 문제를 해결한 직후 외부 일정 변화가 위기를 만든다. 준비한 작업 동선과 분업으로 대응하며 구조 때문에 시간을 잃는다. 성공·위기·대응·대가가 전보다 명확해져 v15 게재본으로 채택한다. 기존 영화에서 익숙한 장치와 기법을 포함하므로 완전히 새로운 발명이나 흥행 성과라고 주장하지 않는다.",
+  "remaining": "필수 재작업으로 판단한 구간은 반영 완료. 세부 그림의 배경·장식 차이는 전체 인과를 훼손하지 않는 범위에서 남김.",
   "not_claimed": [
-    "실제 독자 조사",
-    "흥행 보장",
-    "공학 시뮬레이션 인증"
-  ]
+    "실제 독자 반응 조사",
+    "네이버 순위 보장",
+    "인양 장비 공학 인증 또는 물리 엔진 시험"
+  ],
+  "generation": "내장 image_gen 생성·수정. 원본 PNG 보존, WebP 형식 변환. 브라우저 표시 영역을 이용한 조판이며 픽셀을 코드로 다시 그리지 않았다."
 }

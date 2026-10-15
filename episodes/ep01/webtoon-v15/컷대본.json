@@ -8,616 +8,880 @@
       "action": "Concert arena at night, young clean-shaven chestnut-haired male idol, black sparkling blazer, LEFT hand microphone, RIGHT hand black glove with one pink diamond. Big stage and audience.",
       "dialogue": "내레이션|장갑 한 짝에 백억.",
       "size": "splash",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 1,
+      "selected_source": "hero-01.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 2,
       "action": "Two hours earlier ordinary workshop. All FIVE crew around a modest table with three photographic reference prints, not a game world map. Lax older gray beard olive jacket points at a loading entrance photograph.",
       "dialogue": "락스|우린 하역장까지만 들어갈 수 있어.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 1,
+      "selected_source": "page-01-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 3,
       "action": "Chanho grins with BARE dirty fingertips beside replica glove in case, Wontouch looks at his dirty fingers. Ddakji natural adult slim proportions. Chanho does NOT wear any glove.",
       "dialogue": "찬호|백억이면 손 씻을 때도 경비 붙겠네.\n원타치|넌 손부터 씻어.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 1,
+      "selected_source": "page-01-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 4,
       "action": "Tabletop three small photos: outside loading dock, closed secure costume room doorway, freight platform. Lax indicates west loading picture. No enormous diagram or environmental labels.",
       "dialogue": "락스|들어갈 때도, 나올 때도 서쪽이야.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 1,
+      "selected_source": "page-01-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 5,
       "action": "Ddakji tests replica pink gemstone with a handheld fictional jeweller test, red indicator only, no incomprehensible text. The ONE replica glove on fitted hand-shaped cradle.",
       "dialogue": "딱지|보석 검사는 못 속여.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 2,
+      "selected_source": "page-02-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 6,
       "action": "Close rehearsal replica case opens then closes, simple weight-check light turns green, jeweller instrument separate. Chanho listens beside Ddakji.",
       "dialogue": "딱지|무게 검사만 넘겨. 다음 검사 전엔 빠지고.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 2,
+      "selected_source": "page-02-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 7,
       "action": "Workshop lifting practice: ceiling steel rail attached to solid ceiling, two point chest-and-pelvis harness supports Chanho prone, Wontouch handles trolley traction and brake from floor. No unsafe muscle-only counterweight.",
       "dialogue": "찬호|형, 나 떨어뜨리면 백억 날아간다.\n원타치|장갑은 내가 받을게.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 2,
+      "selected_source": "page-02-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 8,
       "action": "Bbeokkugi glasses cap tan vest gray hoodie demonstrates fictional single-camera normal-video replay on small screen with40 countdown; another nearby camera view still live. No technical hacking instructions.",
       "dialogue": "뻐꾸기|이 카메라만 사십 초. 연장은 안 돼.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 2,
+      "selected_source": "page-02-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 9,
       "action": "Workshop departure: Ddakji picks up work ID and matching actual worker clothing; Wontouch packs folded support harness, Chanho carries replica hardcase; Lax takes van keys.",
       "dialogue": "딱지|물건은 찬호. 문은 나. 형은 찬호 잡아줘.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 3,
+      "selected_source": "page-03.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 10,
       "action": "Inside normal van driving, Lax at wheel, Ddakji passenger, Chanho Wontouch Bbeokkugi in rear. No map unfolded inside van.",
       "dialogue": "찬호|끝나면 치킨?\n원타치|내 건 뼈 있는 거.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 3,
+      "selected_source": "page-03.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 11,
       "action": "Arena west loading yard arrival with van and normal stage crates. Raised loading dock edge and service freight platform operations visible. Caption only in scene, not giant signs on walls.",
       "dialogue": "내레이션|공연장 서쪽 하역장",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 3,
+      "selected_source": "page-03.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "action": "During normal dock work a worker steps down from the raised loading apron front into outside van lane, drop only0.9m and full human height visible. Pedestrian checkpoint sits separately off right; clear open dock front and exterior road are established BEFORE escape.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn",
-      "id": 12
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "id": 12,
+      "review_record_page": 3,
+      "selected_source": "page-03.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 13,
       "action": "Security worker compares Chanho and Wontouch badges to manifest, hand indicates boundary. Ddakji and Bbeokkugi wait beyond behind them, identities checked too.",
       "dialogue": "직원|두 분은 이 선 안쪽으로 들어가시면 안 됩니다.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 4,
+      "selected_source": "page-04-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 14,
       "action": "Actual normal work demonstration below stage: worker loads scenic crate onto circular turntable at WEST stop, distinct stationary surrounding walkway.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 4,
+      "selected_source": "page-04-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 15,
       "action": "Same circular scenic turntable rotating180degrees with crate, solid surface and outer rail. West and east opposed docks remain fixed. No people jumping between rotating edges.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 4,
+      "selected_source": "page-04-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 16,
       "action": "Turntable stopped at EAST docking point. Worker folds down a short manual bridging ramp over shallow forty-centimetre gap to unload crate toward freight lift. Bbeokkugi observes as ordinary worker.",
       "dialogue": "뻐꾸기|저쪽도 하역장이네.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 4,
+      "selected_source": "page-04-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 17,
       "action": "Dressing room, stylist adds a small metallic repair clip to inside cuff of idol RIGHT glove, visibly one pink gemstone. Young idol holds left-hand mic separately.",
       "dialogue": "의상 직원|손목이 좀 헐겁죠? 잠깐만요.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 5,
+      "selected_source": "page-05-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 18,
       "action": "Close cuff with clip folded inside and out of sight; glove exterior unchanged. The crew not present and not watching.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 5,
+      "selected_source": "page-05-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 19,
       "action": "Ddakji in permitted work corridor catches a falling marker pen and returns it to responsible jewel custodian, ponytail charcoal suit. Natural little smile, no exaggerated glamour. Key hangs at custodian belt.",
       "dialogue": "딱지|이거 찾으세요?\n담당자|아, 감사합니다.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 5,
+      "selected_source": "page-05-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 20,
       "action": "Chanho and Wontouch set down real work crate inside allowed boundary; in depth service corridor door is still closed, restricted access beyond. They wait instead of walking freely.",
       "dialogue": "찬호|이제?\n딱지|잠깐.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 5,
+      "selected_source": "page-05-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 21,
       "action": "Small wall safety mirror at corridor corner reflects approaching security guard before actual guard rounds corner. Ddakji sees reflection.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 6,
+      "selected_source": "page-06-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 22,
       "action": "Ddakji pulls Chanho sleeve BEHIND an opaque perpendicular wall corner; Wontouch hidden behind same opaque wall. Guard walks on OTHER side of corner and cannot see trio. No exposed standing in line of sight.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 6,
+      "selected_source": "page-06-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 23,
       "action": "Guard now walks away far beyond corner. ONLY Ddakji Chanho Wontouch in foreground recess, NO Bbeokkugi or Lax. Ddakji motions them to proceed after clear.",
       "dialogue": "찬호|너 없었으면 인사할 뻔했다.\n딱지|나중에 해.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 6,
+      "selected_source": "page-06-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 24,
       "action": "ONLY idol right bare hand with sparkling blazer sleeve putting original right glove directly on fitted pale hand form held in protected cradle by custodian ponytail charcoal suit white gloves. No crew or cap/glasses in room. Security witness at far background only.",
       "dialogue": "담당자|확인하고 보관하겠습니다.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 6,
+      "selected_source": "page-06-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 25,
       "action": "Authorized custodian uses her photoID at vault door reader, green authorization, carrying protected original glove. Empty glass case inside; no preinstalled bodyharness. Marker left on outside ledger shelf.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 7,
+      "selected_source": "page-07-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 26,
       "action": "Custodian closes original glove case, weight green, then removes3-key brassring. Normal card authorization disarms floor temporarily; stolen casekey does not grant floor authorization.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 7,
+      "selected_source": "page-07-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 27,
       "action": "Custodian exits after normal storage. Ddakji hands back same marker, custodian reaches. Framing hides specific theft method while next image reveals key now in Ddakji palm. No practical pickpocket tutorial.",
       "dialogue": "딱지|펜은 챙기셔야죠.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 7,
+      "selected_source": "page-07-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 28,
       "action": "Ddakji palm contains key; custodian has moved away down corridor. Chanho takes key from Ddakji. They are no longer standing beside staff while speaking.",
       "dialogue": "딱지|이제 가.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 7,
+      "selected_source": "page-07-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 29,
       "action": "Three crew ascend short service stair from1F service landing to2F backstage storage floor. Only DD Chanho Wontouch; no Lax or Bbeokkugi.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 8,
+      "selected_source": "page-08.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 30,
       "action": "Closed secure costume room layout viewed from door: safe dry service threshold LEFT, beyond it continuous dark pressure mat to case pedestal RIGHT, steel rail fixed to solid ceiling, one back-wall camera. No hole in ceiling.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 8,
+      "selected_source": "page-08.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "action": "ONLY Ddakji checks Chanho CHEST and PELVIS harness at safe threshold, Wontouch huge BLACK CREWCUT clean-shaven black jacket burgundy collar controls chain. NO graybeard olive Lax NO glasses boy. Protective pouch fixed to body.",
       "dialogue": "딱지|키는 진열장 거야. 바닥은 못 꺼.\n딱지|가슴 쪽도 잠겼어. 가.",
       "size": "detail",
-      "review": "not drawn",
-      "id": 31
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "id": 31,
+      "review_record_page": 8,
+      "selected_source": "page-08.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 32,
       "action": "Bbeokkugi alone at permitted equipment alcove starts one-camera40sec replay. In parallel Ddakji opens actual vault door after setup. No guard beside her, no all-access badge.",
       "dialogue": "뻐꾸기|시작.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 8,
+      "selected_source": "page-08.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 33,
       "action": "Secure room wide side view, Wontouch boots on safe threshold left holds trolley travel line and brake. Chanho supported by TWO straps at CHEST and PELVIS, suspended prone above pressure mat toward locked case at right. Ddakji outside same door watching corridor.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 9,
+      "selected_source": "page-09.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 34,
       "action": "Close Wontouch hand brake and traction line connected visibly to firmly ceiling-mounted rail trolley. No arm-only lifting. Boots on threshold, sensor mat starts beyond feet.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 9,
+      "selected_source": "page-09.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 35,
       "action": "Chanho reaches physical key into side lock of CLOSED glass case, left hand steady on rim; chest and hip support lines visible, feet never touch mat.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 9,
+      "selected_source": "page-09.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 36,
       "action": "Open case. Chanho looks at inside cuff of the ONE original glove lifted from hand form, small metal repair clip visible. Replica stays INSIDE his separate pouch with only black cuff edge visible, total TWO gloves maximum. No third upright glove behind.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 9,
+      "selected_source": "page-09.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 37,
       "action": "Compare original cuff with metal repair clip and replica cuff missing clip, clearly two separate right gloves. Chanho gaze identifies discrepancy.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 10,
+      "selected_source": "page-10-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 38,
       "action": "Chanho hand stops before closing lid; Wontouch continues holding brake and watches, Ddakji at door. Clock remaining12sec separate small insert.",
       "dialogue": "찬호|잠깐.",
       "size": "close",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 10,
+      "selected_source": "page-10-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 39,
       "action": "Two hands transfer tiny repair clip from original cuff to replica matching cuff. Open case and pale fitted cradle underneath.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 10,
+      "selected_source": "page-10-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 40,
       "action": "Original right glove with pink gemstone closes inside fitted protective small hard pouch strapped to Chanho chest. No three hands, no glove lying naked.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 10,
+      "selected_source": "page-10-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 41,
       "action": "Replica now includes repair clip in cuff. Chanho settles replica onto same cradle and closes case with key.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 11,
+      "selected_source": "page-11-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 42,
       "action": "Identical weight-check light as normal scene turns green, Chanho exhales quietly. Both real and fake locations unambiguous.",
       "dialogue": "찬호|됐다.",
       "size": "close",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 11,
+      "selected_source": "page-11-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 43,
       "action": "Replay timer approaches zero, Wontouch draws trolley toward LEFT safe threshold. Case closed far RIGHT contains UPRIGHT REPLICA glove on pale hand form, pink gemstone visible. Original already in body pouch. No empty case.",
       "dialogue": "뻐꾸기|삼 초.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 11,
+      "selected_source": "page-11-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 44,
       "action": "Concert crowd cheers, idol stops leaving stage, looks at stage director with one finger raised requesting extra song. LEFT mic, RIGHT glove now absent.",
       "dialogue": "가수|한 곡 더 갈까요?",
       "size": "splash",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 11,
+      "selected_source": "page-11-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 45,
       "action": "Stage director tells custodian glove needed for unplanned encore. Bbeokkugi at distant permitted work station hears actual request, steps away before radioing.",
       "dialogue": "무대감독|장갑 다시 올려 주세요. 앙코르 갑니다.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 12,
+      "selected_source": "page-12-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 46,
       "action": "Custodian hand finds EMPTY key hook at belt, worried face. The same key was stolen after storage.",
       "dialogue": "담당자|어? 키가…\n뻐꾸기 무전|장갑 다시 찾는대. 지금.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 12,
+      "selected_source": "page-12-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 47,
       "action": "Custodian reports missing key to security, officers immediately dispatch to west stair and costume corridor. Competent normal response, not two elderly night watchmen.",
       "dialogue": "보안|보관실부터 막아. 양쪽 계단도.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 12,
+      "selected_source": "page-12-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 48,
       "action": "Control room screen camera replay ends and live image shows suspended intruder. Other corridor footage also recorded; officer compares rather than ignoring.",
       "dialogue": "관제|침입 확인. 세 명입니다.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 12,
+      "selected_source": "page-12-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 49,
-      "action": "Vault side view, Wontouch draws trolley back left, Chanho still secured at chest/hips, guards approach visible far down corridor behind Ddakji; case closed far right.",
+      "action": "Trolley has drawn Chanho back LEFT, protected pouch closed; Wontouch operates from safe entry strip. Guard approaches down corridor. Closed replica case stays far right.",
       "dialogue": "딱지|사람 와.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 13,
+      "selected_source": "page-13-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 50,
       "action": "Close Wontouch grips Chanho shoulder strap only to steady while overhead trolley brings body above safe threshold, releasing brake controlled.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 13,
+      "selected_source": "page-13-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 51,
-      "action": "Chanho boots land on safe threshold LEFT of pressure mat, Wontouch steadies shoulder, Ddakji holds door. Original hard pouch still strapped; both hands free.",
+      "action": "View from inside vault looking OUT: Chanho and Wontouch boots land on pale corridor tile OUTSIDE threshold, dark pressure mat stays inside foreground. New angle prevents moving the mat boundary just to fit feet.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 13,
+      "selected_source": "page-13-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 52,
       "action": "Three crew exit door and Ddakji closes it, delaying pursuing guards only briefly. No electronic lock magically disabled.",
       "dialogue": "딱지|서쪽으로—",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 13,
+      "selected_source": "page-13-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 53,
       "action": "West stair already blocked by competent guards. Three crew stop hidden behind opaque corner wall. Bbeokkugi radios Lax from separate exterior work station to route van east now. No crew visible to guards yet.",
       "dialogue": "찬호|서쪽 끝났어.\n뻐꾸기 무전|락스 형, 차 동쪽으로 돌려요.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 14,
+      "selected_source": "page-14-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 54,
       "action": "Chanho notices distant rhythmic machinery and remembers normal turntable going east. He points to already introduced understage access.",
       "dialogue": "찬호|아까 저거, 반대편까지 갔지?\n딱지|돌아갈 생각이야?",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 14,
+      "selected_source": "page-14-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 55,
       "action": "West fixed platform dock under stage, scene crate on turntable, next cue approaching. Trio wait crouched in actual shadow. No invented new hole.",
       "dialogue": "뻐꾸기|다음 전환, 곧 들어가요.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 14,
+      "selected_source": "page-14-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 56,
       "action": "Turntable is STOPPED at west. Ddakji steps onto deck behind scenic crate, Chanho follows, Wontouch last. Fixed landing and rotating edge visible with no gap jumping.",
       "dialogue": "딱지|멈췄어. 지금 타.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 14,
+      "selected_source": "page-14-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 57,
       "action": "Overhead large spatial panel: all THREE crouched behind crate on solid circular deck at WEST, EAST landing opposite connects freight lift. Distinct fixed walkway skirts outside whole circle.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 15,
+      "selected_source": "page-15-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 58,
       "action": "Deck starts rotating carrying same crate and three hidden crew, west doorway slides away behind them. Chanho keeps protective pouch secure.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 15,
+      "selected_source": "page-15-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 59,
       "action": "Pursuing guard reaches empty west dock as deck moves away, sees east direction and radios team rather than jumping stupidly.",
       "dialogue": "경비|동쪽으로 돌려. 승강대 앞 막아.",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 15,
+      "selected_source": "page-15-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 60,
       "action": "Deck STOPPED at EAST. Wontouch unfolds short ramp first across service gap, then Ddakji steps across with Chanho. Gap40cm WIDE and1.2m DEEP, BOTTOM VISIBLE, not a bottomless pit. All on same geographic east side as earlier.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 15,
+      "selected_source": "page-15-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 61,
       "action": "Ddakji and Chanho on fixed east landing, Wontouch holds manual bridging ramp steady then crosses last. This gap was introduced in normal work and has a1.2m bottom visible,40cm width.",
       "dialogue": "원타치|건너.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 16,
+      "selected_source": "page-16-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 62,
       "action": "East guard approaches from far corridor. Nearby worker who was unloading prop looks toward running crew and loses foot at same short dock step. Stop-state platform, no rotating blades.",
       "dialogue": "직원|뭐야—",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 16,
+      "selected_source": "page-16-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 63,
       "action": "Worker boot slips into same40cm WIDE,1.2m DEEP maintenance recess beside fixed east dock. Bottom and human scale visible. His torso tilts, face stays just below deck height, no giant new shaft.",
       "dialogue": "",
       "size": "close",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 16,
+      "selected_source": "page-16-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 64,
       "action": "Chanho kneels on fixed east dock and catches worker forearm as worker slips into1.2m recess. Worker head near deck level, knees lower, bottom visible. Both Chanho hands free, pouch strapped shut.",
       "dialogue": "찬호|손 줘!",
       "size": "splash",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 16,
+      "selected_source": "hero-64-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 65,
       "action": "Wontouch braces Chanho shoulder and waist from stable fixed east dock, both boots planted. Chanho grasps worker upper arm; worker partly supported against1.2m trench side. No weightless hanging across bottomless pit.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 17,
+      "selected_source": "page-17-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 66,
       "action": "Ddakji places short bridging plate DIAGONALLY as inclined ramp from recess bottom to fixed landing. Worker boot plants on ramp and bends knee, transferring weight from Chanho grip to ramp. Wontouch still braces Chanho. Not floating horizontal plate under midair feet.",
       "dialogue": "딱지|발 디뎌요. 여기!",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 17,
+      "selected_source": "page-17-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 67,
       "action": "Worker stands on fixed landing with guard attending. Second guard continues pursuing crew. Trio flee toward freight lift and have lost several seconds.",
       "dialogue": "경비|괜찮으세요?\n다른 경비|저쪽!",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 17,
+      "selected_source": "page-17-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 68,
       "action": "Three crew reach freight platform at east stop, same cargo lift introduced earlier. Doors open; guard close behind across same corridor.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 17,
+      "selected_source": "page-17-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 69,
       "action": "Lift gate closes with trio inside, approaching guard on outside. Wontouch works normal inside control; nobody jumps into shaft or hacks motor.",
       "dialogue": "원타치|닫아.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 18,
+      "selected_source": "page-18-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 70,
       "action": "Freight lift descends one level from2F backstage service floor to1F exterior raised loadingdock. No basement/rooftop/garage teleport.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 18,
+      "selected_source": "page-18-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 71,
       "action": "Lift doors open on lower east dock. View from trio: loading apron has open straight front edge about0.9m above exterior van lane; staffed pedestrian checkpoint off to right; exterior van lane outside building.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 18,
+      "selected_source": "page-18-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 72,
       "action": "Bbeokkugi on exterior path west to east, Lax van APPROACHING in distant outside lane about50m back. Bbeokkugi stands beside0.9m dock edge which is level with his WAIST, NOT his head. Exterior night.",
       "dialogue": "뻐꾸기|차 온다. 빨리!",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 18,
+      "selected_source": "page-18-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 73,
       "action": "Trio see pedestrian exit checkpoint blocked by security ahead-right, chase guard emerges freight lift behind them. Dock front directly overlooks outside lane, drop only waist height.",
       "dialogue": "딱지|저 문도 막혔어.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 19,
+      "selected_source": "page-19.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 74,
       "action": "Side angle: Chanho on0.9m dock and Bbeokkugi standing on outside ground. Dock edge cuts across Bbeokkugi WAIST, entire head and shoulders ABOVE dock level. One normal waist-high step, no tall wall. Van still approaching behind.",
       "dialogue": "찬호|문으로 나가야 돼?",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 19,
+      "selected_source": "page-19.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 75,
       "action": "Ddakji vaults the low open dock edge herself, palm plants edge and legs swing down to street. No assisted helpless hanging. She asks for protected pouch before Chanho jumps.",
       "dialogue": "딱지|가방부터 줘.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 19,
+      "selected_source": "page-19.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 76,
       "action": "Chanho kneels at low0.9m dock and passes closed protective glove pouch to Ddakji STANDING just below. Ddakji shoulders and head ABOVE dock floor, edge at her waist. No tall wall.",
       "dialogue": "",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 19,
+      "selected_source": "page-19.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 77,
       "action": "Chanho hops down from LOW0.9m loading dock, dock edge at standing Ddakji WAIST. Knees bend, normal small hop. Ddakji on street holds protective pouch. Pursuing guard still on dock.",
       "dialogue": "",
       "size": "action",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 20,
+      "selected_source": "page-20.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 78,
-      "action": "Wontouch drops last from LOW0.9m dock, edge at standing Chanho WAIST. Lands with bent knees. Chanho Ddakji Bbeokkugi already on street. Guard at edge continues chase.",
+      "action": "Wontouch lands from same low dock; guard OPEN FINGERTIPS clearly miss his collar, not a successful grab silently abandoned. Others already on street; DD holds protected pouch. Selected portrait replaces earlier ambiguous frame.",
       "dialogue": "",
       "size": "splash",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 20,
+      "selected_source": "hero-78.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 79,
       "action": "Lax van that approached on distant road now pulls ALONGSIDE group on outside lane, Bbeokkugi waves. No teleport, no vehicle barrier smashed. Guard stepping down low dock behind.",
       "dialogue": "락스|타!",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 20,
+      "selected_source": "page-20.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 80,
       "action": "Van side door open, Ddakji with protective pouch and Bbeokkugi climb first, Chanho reaches to pull Wontouch toward sliding door. Guard dropping off dock behind.",
       "dialogue": "",
       "size": "action",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 20,
+      "selected_source": "page-20.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 81,
       "action": "Wontouch already inside van rear door, Chanho steps INSIDE last then pulls sliding door closed from INSIDE. Guard reaches lane behind van a step late. NO Chanho left outside when van leaves.",
       "dialogue": "",
       "size": "action",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 21,
+      "selected_source": "page-21-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 82,
       "action": "Interior all FIVE visible: Lax driver, Ddakji front passenger or just forward seat with pouch, Chanho Wontouch Bbeokkugi rear. Lax checks mirror and counts, breathing hard.",
       "dialogue": "락스|다섯. 간다.",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 21,
+      "selected_source": "page-21-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 83,
       "action": "Exterior van pulls onto road, pursuing guard radios vehicle description, other security still at building. Normal road geography, no sudden underground carpark.",
       "dialogue": "",
       "size": "wide",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 21,
+      "selected_source": "page-21-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 84,
       "action": "Inside moving van Ddakji opens fitted protective pouch, real black right glove one pink gemstone inside. Chanho points to cuff now WITHOUT clip; Ddakji remembers clip moved to fake.",
       "dialogue": "딱지|아까 왜 멈췄어?\n찬호|안에 클립이 있더라. 그것도 옮겨야지.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 21,
+      "selected_source": "page-21-fixed.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 85,
       "action": "Wontouch flexes sore hand looking at Chanho; Chanho looks up at huge bulk of Wontouch, tired half smile. Ddakji smiles naturally in background, body not exaggerated.",
       "dialogue": "원타치|다음엔 네가 나 들어.\n찬호|…반만 들면 안 돼?",
       "size": "medium",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 22,
+      "selected_source": "page-22-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 86,
       "action": "Bbeokkugi still breathless fixes crooked glasses, looks at hungry Wontouch beside him.",
       "dialogue": "뻐꾸기|치킨… 아직 먹어요?\n원타치|두 마리.",
       "size": "close",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 22,
+      "selected_source": "page-22-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 87,
       "action": "Registration photo compared to recorded close face of Wontouch from vault CAM03, not an escort scene. Matching crewcut/burgundy collar, no Bbeokkugi inside.",
       "dialogue": "보안|작업자 명단, 다시 띄워.",
       "size": "detail",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 22,
+      "selected_source": "page-22-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     },
     {
       "id": 88,
-      "action": "Large final close security monitor split between Wontouch registered face and van exterior plate footage, security finger points exact same face. Foreground little key hook empty, real investigation beginning. No secret mastermind invention.",
+      "action": "Recorded Wontouch face matched to registration and actual grayvan plate27가4186. No erased CCTV, extra keycabinet or new mastermind. Same camera record remains after five return.",
       "dialogue": "보안|이 사람부터 찾아.",
       "size": "splash",
-      "review": "not drawn"
+      "review": "페이지 내 컷·연결을 실제 이미지로 검토한 뒤 채택",
+      "review_record_page": 22,
+      "selected_source": "page-22-fixed2.png",
+      "review_scope": "페이지별 네 컷의 인물·소품·자세·접점·읽는 순서와 전후 연결을 함께 확인. 실제 반려·수정 내용은 진행.json 참조."
     }
   ],
   "storyboard_sheets": [
@@ -636,7 +900,7 @@
         10,
         11
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 2,
@@ -653,7 +917,7 @@
         21,
         22
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 3,
@@ -670,7 +934,7 @@
         32,
         33
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 4,
@@ -687,7 +951,7 @@
         43,
         44
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 5,
@@ -704,7 +968,7 @@
         54,
         55
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 6,
@@ -721,7 +985,7 @@
         65,
         66
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 7,
@@ -738,7 +1002,7 @@
         76,
         77
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     },
     {
       "id": 8,
@@ -755,7 +1019,7 @@
         87,
         88
       ],
-      "status": "not drawn"
+      "status": "흑백 원본 검토 완료. 반려한 오류는 컬러 콘티에서 수정. 흑백 원본을 최종 채택했다는 의미 아님."
     }
   ],
   "pages": [
@@ -767,7 +1031,8 @@
         3,
         4
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-01-fixed.png"
     },
     {
       "id": 2,
@@ -777,7 +1042,8 @@
         7,
         8
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-02-fixed.png"
     },
     {
       "id": 3,
@@ -787,7 +1053,8 @@
         11,
         12
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-03.png"
     },
     {
       "id": 4,
@@ -797,7 +1064,8 @@
         15,
         16
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-04-fixed.png"
     },
     {
       "id": 5,
@@ -807,7 +1075,8 @@
         19,
         20
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-05-fixed.png"
     },
     {
       "id": 6,
@@ -817,7 +1086,8 @@
         23,
         24
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-06-fixed.png"
     },
     {
       "id": 7,
@@ -827,7 +1097,8 @@
         27,
         28
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-07-fixed.png"
     },
     {
       "id": 8,
@@ -837,7 +1108,8 @@
         31,
         32
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-08.png"
     },
     {
       "id": 9,
@@ -847,7 +1119,8 @@
         35,
         36
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-09.png"
     },
     {
       "id": 10,
@@ -857,7 +1130,8 @@
         39,
         40
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-10-fixed.png"
     },
     {
       "id": 11,
@@ -867,7 +1141,8 @@
         43,
         44
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-11-fixed.png"
     },
     {
       "id": 12,
@@ -877,7 +1152,8 @@
         47,
         48
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-12-fixed.png"
     },
     {
       "id": 13,
@@ -887,7 +1163,8 @@
         51,
         52
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-13-fixed2.png"
     },
     {
       "id": 14,
@@ -897,7 +1174,8 @@
         55,
         56
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-14-fixed.png"
     },
     {
       "id": 15,
@@ -907,7 +1185,8 @@
         59,
         60
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-15-fixed.png"
     },
     {
       "id": 16,
@@ -917,7 +1196,8 @@
         63,
         64
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-16-fixed2.png"
     },
     {
       "id": 17,
@@ -927,7 +1207,8 @@
         67,
         68
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-17-fixed.png"
     },
     {
       "id": 18,
@@ -937,7 +1218,8 @@
         71,
         72
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-18-fixed2.png"
     },
     {
       "id": 19,
@@ -947,7 +1229,8 @@
         75,
         76
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-19.png"
     },
     {
       "id": 20,
@@ -957,7 +1240,8 @@
         79,
         80
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-20.png"
     },
     {
       "id": 21,
@@ -967,7 +1251,8 @@
         83,
         84
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-21-fixed.png"
     },
     {
       "id": 22,
@@ -977,7 +1262,8 @@
         87,
         88
       ],
-      "status": "not drawn"
+      "status": "컬러 콘티·원화 육안 검수 후 채택",
+      "selected_source": "page-22-fixed2.png"
     }
   ],
   "rules": [
@@ -991,7 +1277,7 @@
     "East0.9m open loading edge and street lane shown before jump.",
     "No M04 invention, no injured-superpowered Chanho hands."
   ],
-  "visual_gate": "Do not claim final acceptance before actual art and assembled mobile reader are inspected.",
+  "visual_gate": "페이지별 수정과 최종 공개 모바일·데스크톱 조판 확인 완료. v15 정지웹툰 게재본으로 채택. 흥행 보장·실제 독자 조사·공학 인증을 뜻하지 않는다.",
   "storyboard_corrections": {
     "source": "Direct review of8 monochrome contact sheets + hoist test2",
     "required": [

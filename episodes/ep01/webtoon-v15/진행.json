@@ -1,5 +1,5 @@
 {
-  "status": "assembled; final public visual QA pending",
+  "status": "complete — v15 published and visual QA finished",
   "total_cuts": 88,
   "total_pages": 22,
   "storyboard_review": [
@@ -278,5 +278,9 @@
     "1": "hero-01",
     "64": "hero-64-fixed",
     "78": "hero-78"
-  }
+  },
+  "full_episode_approved": true,
+  "completed": "2026-10-15T21:12:37",
+  "public_url": "https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/webtoon-v15/",
+  "final_review": "최종검수.json"
 }
