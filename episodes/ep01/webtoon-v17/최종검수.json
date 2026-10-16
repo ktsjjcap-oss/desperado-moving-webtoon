@@ -1,7 +1,7 @@
 {
   "version": "v17",
   "date": "2026-10-16",
-  "status": "actual image and second sequence review complete; public browser QA pending",
+  "status": "selected v17 actual images reviewed, corrected and re-reviewed; public reader verified",
   "art_reviewed": true,
   "post_production_review": true,
   "revised_source_pages": [
@@ -143,6 +143,36 @@
       "상자는 여전히 닫혀 있고 진품도 안에 남음. 딱지 티셔츠/케이스/창/추/작업 공구와 차 밖 경비를 확인. 탈출 성공으로 결말을 속이지 않음."
     ]
   ],
-  "browser_checks": [],
-  "limits": "동선/시야/신체 접점/소품/의상/서사 순서의 자체 편집 검토. 실제 건축 실측·스턴트 재현·독자 조사·순위 보장이 아님."
+  "browser_checks": [
+    {
+      "viewport": "390x844",
+      "content_width": 375,
+      "scroll_width": 375,
+      "loaded_main_images": 23,
+      "modal_blocks_opened_and_closed": 23,
+      "modal_image_complete_checks": 23,
+      "horizontal_modal_overflows": 0
+    },
+    {
+      "viewport": "1280x900",
+      "content_width": 1265,
+      "scroll_width": 1265,
+      "main_width": 880,
+      "loaded_main_images": 23,
+      "actual_screenshot": "69–72컷 재킷 탈출의 실제 공개 표시 확인"
+    },
+    {
+      "viewport": "default restored",
+      "checked": "02–04 및81–83 선택 src/complete/class와 실제 화면을 각각 재확인",
+      "observation": "대체1/84의 기존 원화 영역이 확대에서도 중복되지 않음. 전환 즉시 로딩 화면을 찍은 첫 캡처는 증거에서 제외하고, 로딩 완료 상태를 읽은 뒤 별도 캡처로 확인."
+    },
+    {
+      "checked": "public production report navigation and console",
+      "report_title": "v17 실제 그림 재검토",
+      "console_errors": 0
+    }
+  ],
+  "limits": "동선/시야/신체 접점/소품/의상/서사 순서의 자체 편집 검토. 실제 건축 실측·스턴트 재현·독자 조사·순위 보장이 아님.",
+  "public_url": "https://desperado-moving-webtoon.ktsjjcap.workers.dev/episodes/ep01/webtoon-v17/",
+  "art_commit": "5b872cd"
 }

@@ -556,6 +556,6 @@
       "sha256": "5bc090797e7c572fb373b78e60737d2907f95b5f9e83cfbca117346d1b2aed74"
     }
   },
-  "status": "actual image/sequence review complete; public browser review pending",
+  "status": "selected v17; actual image/sequence review and public reader checks complete",
   "format_note": "70번은 새18장 안의 큰 액션 프레임으로 통합. 이전 hero70은 본편에서 사용하지 않음. 1/84 기존 영역은 본편·확대에서 제외."
 }
