@@ -1,5 +1,5 @@
 {
-  "story_approved": true,
+  "story_approved": false,
   "reviews": [
     {
       "asset": "test-case-01.png",
@@ -300,7 +300,9 @@
       "time": "2026-10-15T23:44:46.816736"
     }
   ],
-  "status": "selected v16 published; art and public reader reviewed",
+  "status": "superseded; v16 concealment and pursuit editorial approval withdrawn",
   "main_narrative_units": 84,
-  "approval_scope": "자체 편집 게재 판단. 순위·실제 독자 반응 보장 아님."
+  "approval_scope": "자체 편집 게재 판단. 순위·실제 독자 반응 보장 아님.",
+  "superseded_by": "../webtoon-v17/",
+  "withdrawal_reason": "낮은 카트 뒤 성인4인 은신과 경비가 기다려주는 상차/추격 간격이 실제 컷에서 성립하지 않음. 기술 검사 기록은 과거 실행 사실로 보존."
 }

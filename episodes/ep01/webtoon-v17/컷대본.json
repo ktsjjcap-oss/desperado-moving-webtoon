@@ -1,0 +1,854 @@
+{
+  "version": "v17",
+  "title": "DESPERADO · EP01 박수가 멈추면",
+  "cuts": [
+    {
+      "id": 1,
+      "action": "대형 세로 공연장 컷. 젊은 밤색 머리 아이돌, 오른손 보석 검정 장갑 한 짝과 왼손 맨손 마이크. 도입 원화 첫 컷은 대체되어 본편에서 반복하지 않는다.",
+      "dialogue": "내레이션|장갑 한 짝에 백억.",
+      "size": "splash",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "hero-01.png",
+      "review_record_page": 1,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 2,
+      "action": "무대 측면의 잠긴 검은 운송 케이스. 담당자가 아이돌에게 착용시킨 직전의 짧은 시간 삽입. 물건을 혼자 테이블에 두지 않는다.",
+      "dialogue": "담당자|첫 곡 끝나면 바로 반납해 주세요.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-01.png",
+      "review_record_page": 1,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 3,
+      "action": "두 시간 전 작업실. 다섯 명과 실제 대기실·하역장·무대 옆 사진 세 장.",
+      "dialogue": "락스|오늘은 무대 끝나고 옮겨. 그 전에 가져온다.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-01.png",
+      "review_record_page": 1,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 4,
+      "action": "작업실 사진에는 정면 단일 문/경비2인/CCTV와 구형 은색 중앙 잠금 케이스가 인쇄돼 있다. 당일 새 검정 전면 창 케이스와 구분.",
+      "dialogue": "딱지|문 앞에 둘. 카메라도 있고.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-01.png",
+      "review_record_page": 1,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 5,
+      "action": "같은 대기실의 설치 사진. 임시 패널 벽 뒷면은 장비 조립 구역. 벽 자체는 금고 외벽이 아니다.",
+      "dialogue": "찬호|문 말고, 설치할 때 찍은 사진 봐.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-02.png",
+      "review_record_page": 2,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 6,
+      "action": "작업실의 작은 밑판 모형으로 제거 동작을 연습. 방호 외함은 잠금 케이스이고 임시 대기실 외벽은 금고 벽이 아님.",
+      "dialogue": "딱지|밑판만 빼면 돼.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-02.png",
+      "review_record_page": 2,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 7,
+      "action": "사진의 케이스를 가리킨다. 잠금 장치·사슬·고정 추까지 보인다.",
+      "dialogue": "락스|벽보다 저게 문제야. 열 수 있겠어?",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-02.png",
+      "review_record_page": 2,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 8,
+      "action": "DD는 은색 중앙 잠금 모형을 연습하고 Ch는 빈 버건디 보호가방을 펼친다. 진품/복제품은 작업실에 없다.",
+      "dialogue": "찬호|백억 담을 가방치곤 싸지?\n원타치|백억부터 담고 말해.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-02.png",
+      "review_record_page": 2,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 9,
+      "action": "리허설 시간표의 드럼 구간과 손뼉. 짧은 현장 영상에는 저음마다 무대 옆 합판이 떨린다.",
+      "dialogue": "뻐꾸기|이 구간에 움직여요. 조용해지면 멈추고.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-03.png",
+      "review_record_page": 3,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 10,
+      "action": "뻐꾸기가 낡은 장비 카트의 바퀴를 굴린다. 일정한 끼익 소리.",
+      "dialogue": "딱지|바퀴 좀 갈아.\n뻐꾸기|아직 잘 굴러가요.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-03.png",
+      "review_record_page": 3,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 11,
+      "action": "락스가 하역장 사진과 허가증을 나란히 둔다. 반출 시간과 현장 책임자 확인란.",
+      "dialogue": "락스|출입증은 하역장까지. 그 안부터는 우리 일이다.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-03.png",
+      "review_record_page": 3,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 12,
+      "action": "W가 일반 장비용 추를 혼자 들어 하중 제어 능력을 미리 보인다. 현재 장갑이나 진품 케이스가 등장하지 않는다.",
+      "dialogue": "찬호|안 무겁냐?\n원타치|네가 들어 볼래?",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-03.png",
+      "review_record_page": 3,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 13,
+      "action": "밴 이동. 지도 설명 대신 차창과 편안한 캐릭터 대화.",
+      "dialogue": "딱지|무슨 노래 좋아해?\n원타치|끝나는 노래.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-04.png",
+      "review_record_page": 4,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 14,
+      "action": "지상 하역장 도착. 반출 인력으로 등록한 지 사흘째라는 지문. 차량 대기선과 장비 문을 실제 풍경으로 먼저 보여 준다.",
+      "dialogue": "내레이션|오후 8시 40분 · 지상 하역장",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-04.png",
+      "review_record_page": 4,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 15,
+      "action": "담당 직원이 네 명의 작업자 출입증과 장비 수량을 확인한다. 락스는 운전석, 나머지 네 명은 하차.",
+      "dialogue": "직원|반출 순서 바뀌면 다시 확인받으세요.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-04.png",
+      "review_record_page": 4,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 16,
+      "action": "조립 구역에서 후면의 닫힌 낮은 정비 판을 보며, 같은 대기실 정면이라는 삽입 시점에서 반대편 단일 문/경비2인/카메라를 보여 준다. 주 화면 후면에는 사람용 문이나 카메라가 없다.",
+      "dialogue": "뻐꾸기|저쪽은 못 가요. 여기서 기다려야 돼요.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-04.png",
+      "review_record_page": 4,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 17,
+      "action": "첫 곡이 끝나고 아이돌은 경비와 담당자 앞에서 장갑을 벗어 케이스 안에 넣는다.",
+      "dialogue": "담당자|확인했습니다.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-05.png",
+      "review_record_page": 5,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 18,
+      "action": "새 운송 케이스의 작은 전면 관찰창. 오른손 장갑과 분홍 보석 한 개. 구형 사진과 다른 두 개의 잠금 장치가 보인다.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-05.png",
+      "review_record_page": 5,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 19,
+      "action": "담당자가 연결 사슬/고정 추를 확인한 뒤 정면을 보며 방 밖으로 나와 뒤 문을 닫고 경비에게 인계차 연락을 요청. 케이스는 방 안에 남는다.",
+      "dialogue": "담당자|인계차 오면 불러 주세요.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-05.png",
+      "review_record_page": 5,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 20,
+      "action": "BB는 허가된 작업 구역의 실제 무대 모니터에서 맨손 아이돌을 보고 장갑을 벗었다고 전달한다. 대기실 내부 CCTV를 볼 수 없다.",
+      "dialogue": "뻐꾸기 무전|장갑 벗었어요. 다음 곡 시작해요.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-05.png",
+      "review_record_page": 5,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 21,
+      "action": "닫힌 해치에 접근하는 딱지. 성인보다 높은 불투명 장비 케이스 적재열이 직원 통로와 작업 포켓을 실제로 가린다.",
+      "dialogue": "딱지|예상한 벽이야.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-06.png",
+      "review_record_page": 6,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 22,
+      "action": "찬호가 같은 높은 케이스 모서리에서 눈만 내밀어 반대편 통과 직원을 확인한다. 몸과 동료는 가림 뒤에 남는다.",
+      "dialogue": "찬호|뒤에 직원 지나간다. 기다려.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-06.png",
+      "review_record_page": 6,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 23,
+      "action": "찬호와 DD가 정비 판의 고정부를 풀어 놓은 뒤 W가 판 무게를 완전히 받아 옆으로 빼낸다. 소리가 나는 작업은 드럼 박자에 맞춘다. 열린 부분은 높이65cm 너비110cm. W가 벽 전체를 드는 것이 아니다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-06.png",
+      "review_record_page": 6,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 24,
+      "action": "드럼 박자와 패널 움직임을 교차. 딱지가 손을 들면 전원이 정지한다. 음악은 청각적 가림일 뿐 카메라를 가리지 않는다.",
+      "dialogue": "효과|쿵",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-06.png",
+      "review_record_page": 6,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 25,
+      "action": "전면 경비는 닫힌 대기실 출입문과 복도 카메라 밑에 서 있다. 침입자가 문 앞을 지나는 컷은 없다.",
+      "dialogue": "경비|다음 교대 몇 시야?",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-07.png",
+      "review_record_page": 7,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 26,
+      "action": "DD가 높이65cm 정비 구멍으로 엎드려 통과한다. W는 떼어낸 낮은 판을 조립 구역 바닥에 내려놓고, Ch가 바깥에서 접근을 살핀다. 프레임은 그대로이고 천장·로프·금고 바닥 침입은 없다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-07.png",
+      "review_record_page": 7,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 27,
+      "action": "찬호가 같은 틈으로 통과한다. W는 외부 조립 구역에 남는다. 두 사람이 들어갈 때까지 패널 높이가 변하지 않는다.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-07.png",
+      "review_record_page": 7,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 28,
+      "action": "안쪽 딱지가 받침을 확인한 뒤 손가락 두 개로 W에게 신호. 외부 세 번째 인물이나 새 출입구는 없다.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-07.png",
+      "review_record_page": 7,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 29,
+      "action": "카메라는 실내에서 후면 정비 구멍을 본다. Ch/DD실내, W는 구멍 너머 외부. 정면 문은 카메라 뒤 반대 벽에 있어 이 각도에 보이지 않는다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-08.png",
+      "review_record_page": 8,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 30,
+      "action": "딱지가 케이스를 확인하다 구형과 다른 이중 잠금을 발견한다. 관찰창 안 장갑은 그대로.",
+      "dialogue": "딱지 속삭임|잠깐. 상자가 바뀌었어.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-08.png",
+      "review_record_page": 8,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 31,
+      "action": "구형 은색 중앙 잠금 사진과 당일 검정 전면 창/이중 잠금을 비교하고 DD는 차량에 있는 다른 공구가 필요하다고 말한다.",
+      "dialogue": "찬호 속삭임|얼마나 걸려?\n딱지 속삭임|이건 차에 있는 공구가 필요해.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-08.png",
+      "review_record_page": 8,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 32,
+      "action": "찬호가 퇴각 신호를 내려고 한다. 딱지는 사슬 쪽을 보고, 틈 밖 W는 두 사람을 기다린다.",
+      "dialogue": "찬호 속삭임|그럼 나가.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-08.png",
+      "review_record_page": 8,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 33,
+      "action": "밖 W가 작은 빈 보호 가방을 접고 케이스·사슬·고정 추를 함께 본다.",
+      "dialogue": "원타치 속삭임|왜 열어.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-09.png",
+      "review_record_page": 9,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 34,
+      "action": "W는 방 밖에서 전체 연결 하중을 보고 모두 가져가자고 제안. 방 안에 갑자기 들어오지 않는다.",
+      "dialogue": "원타치 속삭임|그냥 다 가져가.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-09.png",
+      "review_record_page": 9,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 35,
+      "action": "사슬의 짧은 길이 때문에 케이스만 틈으로 빼지 못한다. 두 물건을 동시에 지나게 해야 한다.",
+      "dialogue": "딱지 속삭임|둘 다 지나가야 돼. 끌면 소리 나.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-09.png",
+      "review_record_page": 9,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 36,
+      "action": "W가 조립 구역의 작은 이동 받침 두 개를 낮은 구멍으로 전달하고 실제 원화에서는 DD가 받는다.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-09.png",
+      "review_record_page": 9,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 37,
+      "action": "작은 바퀴 받침이 금속 턱에 걸리는 접점을 클로즈업. 틈 높이65cm에 케이스가 안 들어간다는 이전 설명은 폐기.",
+      "dialogue": "찬호 속삭임|멈춰. 소리 난다.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-10.png",
+      "review_record_page": 10,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 38,
+      "action": "딱지가 바퀴 받침을 빼고 접은 두꺼운 장비 담요를 대신 깐다. W가 고정 추를 들어 완전히 받친다.",
+      "dialogue": "딱지 속삭임|굴리지 말고, 밀어. 이거 깔고.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-10.png",
+      "review_record_page": 10,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 39,
+      "action": "물건과 몸의 순서를 명확히: W는 바깥에서 고정 추를 받고, 찬호는 안쪽에서 케이스를 민다. DD는 안쪽에서 사슬을 담요에 올린다. 고정 추→사슬→케이스 순서로 같은 구멍을 지난다. 사람이 세 명 모두 방 안에 생기지 않는다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-10.png",
+      "review_record_page": 10,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 40,
+      "action": "닫힌 케이스 전면 창을 통해 오른손 장갑 한 짝과 낮은 은색 고정대에 붙은 분홍 다이아 한 개만 보인다.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-10.png",
+      "review_record_page": 10,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 41,
+      "action": "무대의 아이돌이 밴드에게 손을 들어 정지를 청한다. 오른손은 맨손.",
+      "dialogue": "아이돌|잠깐만. 이번엔 목소리만 들려줄게요.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-11.png",
+      "review_record_page": 11,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 42,
+      "action": "반주가 꺼진다. 들려야 할 드럼 대신 손바닥이 멎는 W, 공중에서 멎는 사슬, DD 눈.",
+      "dialogue": "효과|…",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-11.png",
+      "review_record_page": 11,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 43,
+      "action": "Ch의 흰 작업장갑 낀 손이 연속 사슬 고리 자체를 받쳐 금속 턱에 부딪히지 않게 한다. 새 금속 꼬리/자유 사슬 끝/부상/초능력 없음.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-11.png",
+      "review_record_page": 11,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 44,
+      "action": "W가 숨을 참으며 추 무게를 버틴다. DD가 접은 담요 끝을 찬호 손 위로 밀어 넣어 소리를 막는다.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-11.png",
+      "review_record_page": 11,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 45,
+      "action": "반주가 꺼지면서 옷/담요가 스치는 작은 소리가 정면 경비에게 들린다. 막아낸 금속 충돌을 났다고 바꾸지 않는다.",
+      "dialogue": "경비|방 안에서 소리 안 났어?",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-12.png",
+      "review_record_page": 12,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 46,
+      "action": "반복 와이드 대신 W의 양손/팔/발 접지와 추를 버티는 무게 지지 클로즈업. 방 안의 Ch/DD는 화면 밖.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-12.png",
+      "review_record_page": 12,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 47,
+      "action": "무대 모니터 옆 빈 낮은 카트/낡은 바퀴가 먼저 보인다. 뻐꾸기는 실제 무대 화면만 보고 박수 순간을 전달한다.",
+      "dialogue": "뻐꾸기 무전|이거 리허설엔 없었는데…\n끝나면 박수 나와요. 그때 한 번만.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-12.png",
+      "review_record_page": 12,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 48,
+      "action": "딱지가 찬호 눈을 보고 손을 쥐었다 펴며 준비. 멋부린 격언 대신 행동으로 확인.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-12.png",
+      "review_record_page": 12,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 49,
+      "action": "아이돌이 마지막 음을 길게 끝낸다. 경비가 카드키를 문 쪽으로 들어 올린다.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-13.png",
+      "review_record_page": 13,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 50,
+      "action": "관객 박수가 터지는 화면과 연결된 추/케이스를 함께 밖으로 받는 동작 삽입을 같은 서사 번호로 묶어 교차한다.",
+      "dialogue": "효과|와아아",
+      "size": "splash",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-13.png",
+      "review_record_page": 13,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 51,
+      "action": "정면 문을 연 경비 어깨 너머로 반대 벽의 낮은 구멍을 기어 나가는 Ch/DD를 본다. W와 케이스/추는 이미 구멍 밖.",
+      "dialogue": "경비|거기 멈춰!",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-13.png",
+      "review_record_page": 13,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 52,
+      "action": "경비가 즉시 무전, 동료는 반대편 조립 구역으로 우회. 문만 따라 한 줄로 추격하지 않는다.",
+      "dialogue": "경비 무전|대기실 침입. 조립 구역 양쪽 막아.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-13.png",
+      "review_record_page": 13,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 53,
+      "action": "큰 부감으로 방 반대편 경비/후면 해치와 대기 카트/고정 콘크리트 ㄱ벽/장비 연결문/반대편 밴과 이미 내려놓은 경사판을 한 번에 선행 제시.",
+      "dialogue": "내레이션|경비는 방을 돌아와야 한다.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-14.png",
+      "review_record_page": 14,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 54,
+      "action": "정면문 경비가 즉시 무전하며 우회한다. 다음 장면의 상차는 경비가 그 우회로를 이동하는 동안 동시에 이루어진다.",
+      "dialogue": "경비|하역장 출구 막아. 뒤로 돌아간다.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-14.png",
+      "review_record_page": 14,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 55,
+      "action": "해치 앞 2m 이내에 이미 대기한 뻐꾸기 카트. 찬호와 딱지가 케이스를 함께, 원타치는 추를 두 손으로 들어 한 번에 싣는다. 낮은 카트는 엄폐물이 아니다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-14.png",
+      "review_record_page": 14,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 56,
+      "action": "딱지가 같은 이동 담요로 케이스/창/추를 덮는다. 사람을 숨기는 동작이 아니라 보석과 연결 짐을 가리는 동작.",
+      "dialogue": "딱지|창도 가려.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-14.png",
+      "review_record_page": 14,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 57,
+      "action": "네 사람이 서서 카트를 굴려 고정 ㄱ벽의 안쪽 장비 연결문으로 향한다. 경비 쪽 시선은 성인보다 높은 벽이 끊는다.",
+      "dialogue": "뻐꾸기|옆 칸으로 가요.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-15.png",
+      "review_record_page": 15,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 58,
+      "action": "접근하는 경비 쪽 눈높이. 연결문 안쪽 포켓의 네 사람과 카트는 벽에 완전히 가려지고 빈 통로와 모서리만 보인다.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-15.png",
+      "review_record_page": 15,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 59,
+      "action": "벽 바깥쪽으로 다가오는 경비의 발과 그림자. 세 차례 반복되던 카드 접사 대신 접근 거리의 압박을 준다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-15.png",
+      "review_record_page": 15,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 60,
+      "action": "벽 안쪽 딱지가 입술에 검지를 대 조용히 신호. 정지 명령 뒤 카트가 움직이는 모순을 없앤다.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-15.png",
+      "review_record_page": 15,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 61,
+      "action": "53컷과 같은 ㄱ자 고정 벽 부감. 경비는 벽 바깥 중앙, 네 명은 벽 안쪽으로 물리적으로 분리. 방 후면 해치는 경첩 없이 비어 있고 떼어낸 패널은 옆에 세워져 있다.",
+      "dialogue": "내레이션|박수가 잦아든다.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-16.png",
+      "review_record_page": 16,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 62,
+      "action": "리더기에 승인된 작업자 카드, 녹색 불과 실제 잠금 혀가 풀리는 접점. 연결문과 경비 양쪽에 리더기가 있어 다시 닫히면 각자 카드를 대야 한다.",
+      "dialogue": "효과음|딸깍",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-16.png",
+      "review_record_page": 16,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 63,
+      "action": "카트를 문 방향으로 돌릴 때 낡은 캐스터가 회전하며 끼익. 정적/낡은 바퀴의 선행 제시가 발각 원인이 된다.",
+      "dialogue": "효과음|끼익",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-16.png",
+      "review_record_page": 16,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 64,
+      "action": "경비가 소리를 듣고 즉시 콘크리트 벽 안쪽 모서리로 달려온다. 계속 속지 않는다.",
+      "dialogue": "경비|안쪽에 있다!",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-16.png",
+      "review_record_page": 16,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 65,
+      "action": "딱지가 연결문을 열고 찬호/뻐꾸기가 앞에서 카트 방향을 잡고 원타치가 뒤에서 민다. 등록된 하역 구역 사이 이동문.",
+      "dialogue": "찬호|가!",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-17.png",
+      "review_record_page": 17,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 66,
+      "action": "앞 캐스터가 연결문의 낮은 문턱에 옆으로 걸림. 접점과 문틀을 먼저 보여 준다.",
+      "dialogue": "딱지|앞만 들어!",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-17.png",
+      "review_record_page": 17,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 67,
+      "action": "찬호가 앞 프레임을 몇 cm 들어 바퀴만 문턱을 넘기고 원타치가 뒤 하중을 제어한다. 뒤 바퀴는 바닥, 케이스와 추는 덮개 안 카트 위.",
+      "dialogue": "—",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-17.png",
+      "review_record_page": 17,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 68,
+      "action": "카트와 세 명은 옆 하역장으로 넘어간다. 마지막 딱지가 문을 잡고 통과할 때 돌아온 경비가 열린 재킷 천을 붙잡는다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-17.png",
+      "review_record_page": 17,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 69,
+      "action": "경비가 쥔 것은 소매 천이며 딱지가 몸을 돌려 남은 팔을 빼는 손/천 접점을 확대.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-18.png",
+      "review_record_page": 18,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 70,
+      "action": "큰 액션 프레임. 딱지가 두 팔을 재킷에서 빼고 흰 반팔 차림으로 옆 하역장에 접지한다. 빈 재킷은 경비 쪽에 남고 문틈에 끼지 않는다.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-18.png",
+      "review_record_page": 18,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 71,
+      "action": "연결문이 실제로 닫힌 뒤 경비가 카드를 꺼내 리더기로 가져가는 모습. 영구 봉쇄가 아니라 잠깐의 간격.",
+      "dialogue": "경비 무전|연결문 통과했다. 차량 쪽 막아!",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-18.png",
+      "review_record_page": 18,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 72,
+      "action": "바로 옆 하역장의 락스 밴. 경사판은 53컷부터 내려져 있었고 지금 준비를 새로 시작하지 않는다.",
+      "dialogue": "락스 무전|바로 앞이야. 올라타.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-18.png",
+      "review_record_page": 18,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 73,
+      "action": "옆 칸의 짧은 거리와 밴 후면 경사판을 한 화면에 표시. 네 사람은 서서 덮인 카트를 운반한다. 경비는 닫힌 연결문 반대쪽.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-19.png",
+      "review_record_page": 19,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 74,
+      "action": "경비 카드 승인 녹색과 연결문 열기. 경비를 무력화하거나 퇴장시키지 않는다.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-19.png",
+      "review_record_page": 19,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 75,
+      "action": "이미 준비된 경사판에 카트를 즉시 밀어 올린다. 찬호/원타치가 위에서 당기고 뻐꾸기가 뒤에서 밀며 딱지가 옆을 보조. 서 있는 사람과 발/바퀴 접점.",
+      "dialogue": "—",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-19.png",
+      "review_record_page": 19,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 76,
+      "action": "카트가 밴 안에 들어간 뒤 경사판을 안쪽으로 회수한다. 딱지와 뻐꾸기도 탑승. 연결문을 나온 경비는 같은 화면 뒤쪽에서 접근 중.",
+      "dialogue": "—",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-19.png",
+      "review_record_page": 19,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 77,
+      "action": "전원 탑승. 회수 경사판은 안쪽 왼편. 딱지가 담요를 걷어 같은 닫힌 케이스/창/추를 드러내고 공구 작업을 시작. 문을 닫는 순간까지 경비가 접근.",
+      "dialogue": "찬호|다 탔어.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-20.png",
+      "review_record_page": 20,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 78,
+      "action": "락스의 앞 유리 너머: 하역장 보행문과 차량 출구가 모두 실제로 차단된다. 경비가 앞 차도 멈춘다. 차단봉 밑으로 빠져나가지 않는다.",
+      "dialogue": "락스|못 나간다. 출구 막혔어.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-20.png",
+      "review_record_page": 20,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 79,
+      "action": "락스는 경비를 향해 돌진하지 않고 밴을 반출 대기 차량들 사이의 작업선 안쪽으로 붙인다. 후방 작업등을 끄고 시야 노출을 줄이지만 차량 자체를 숨길 수는 없다.",
+      "dialogue": "락스|문 열지 마. 시간은 벌어 볼게.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-20.png",
+      "review_record_page": 20,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 80,
+      "action": "실제 입장 시각08:40의 등록 차량 사진과 등록 작업자 BB자료를 보안이 확인한다. BB를 운전자라고 쓰지 않는다. 실제 운전은 Lax.",
+      "dialogue": "경비 무전|대기선 안에 있어. 차량 번호 확인해.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-20.png",
+      "review_record_page": 20,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 81,
+      "action": "밴 안 흰 티셔츠 DD가 케이스를 확인하고 W가 추를 지지, BB는 뒤 창으로 접근 경비를 직접 본다. 진품은 아직 케이스 안.",
+      "dialogue": "딱지|가져오긴 했는데. 아직 우리 건 아니네.",
+      "size": "wide",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-21.png",
+      "review_record_page": 21,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 82,
+      "action": "Ch의 작은 버건디 보호가방은 재킷과 별개. W의 짧은 농담 뒤 Ch가 접는다.",
+      "dialogue": "원타치|다음엔 가방부터 크게 사.",
+      "size": "medium",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-21.png",
+      "review_record_page": 21,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 83,
+      "action": "차 밖 경비가 밴의 후방문 손잡이로 손을 뻗고, 차 안 DD의 손은 케이스 잠금 장치 위에 놓인다. 두 개의 닫힌 문을 교차해 보여준다.",
+      "dialogue": "경비|문 여세요. 확인하겠습니다.",
+      "size": "close",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "page-21.png",
+      "review_record_page": 21,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    },
+    {
+      "id": 84,
+      "action": "대형 세로 마지막 컷. DD는 차량의 다른 공구로 기존 잠금 근처에서 작업 중이고 케이스는 닫혀 있다. 새 중앙 자물쇠/추가 창 없음. 낮은 카트/바퀴/연결 추 유지. Ch의 말풍선, 실제 뒤 유리 너머 경비. 탈출 완료로 속이지 않는다.",
+      "dialogue": "찬호|딱지. 먼저 열어.",
+      "size": "splash",
+      "status": "selected image and adjacent sequence re-reviewed",
+      "selected_asset": "hero-84.png",
+      "review_record_page": 21,
+      "review_scope": "제작 후 실이미지 재검토→수정→수정본 재검토. 세부 반려/채택과 연결 검토는 v17-재검토.json"
+    }
+  ],
+  "ending": "실제 외부 탈출 완료로 속이지 않는다. 이번 화는 진품이 든 잠금 케이스를 확보했지만 하역장 봉쇄 속에 갇힌 상태. 케이스를 여는 손과 밴 문을 여는 손의 경쟁을 다음 화 질문으로 남긴다.",
+  "status": "editorial sequence review complete; public browser QA pending",
+  "main_narrative_units": 84,
+  "major_portrait_replacements": [
+    1,
+    84
+  ],
+  "canon": "오른손 검정 장갑 한 짝/낮은 은색 고정대의 분홍 다이아 한 개. 첫 곡 반납 후 진품은 같은 검정 전면 창 케이스 안에 남는다. 다섯 인물 얼굴은v9 기준. 현재 Ch양손 건강. 새 의뢰인/대금/과거사/M04/초능력을 덧붙이지 않음."
+}
