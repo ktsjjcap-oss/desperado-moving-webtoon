@@ -1,0 +1,271 @@
+{
+  "version": "v18",
+  "title": "DESPERADO · EP01 · 먼저 온 도둑",
+  "pages": 19,
+  "narrative_cuts": 90,
+  "assets": [
+    {
+      "page": 1,
+      "file": "page-01.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "sha256": "45b3afc77c2611bfada40b16498a3eb18e6552cdacd696a25e1606b8d7b7766d"
+    },
+    {
+      "page": 2,
+      "file": "page-02.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "sha256": "ed3c1e7a4a43c8f3b2e7339b55c274e652f89a72d5c4d20637f2d37b58168ae4"
+    },
+    {
+      "page": 3,
+      "file": "page-03.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "sha256": "1e29268f174f444191633d73c7e2780058d5bd3fc429daa99aaae14ba6cf3a7f"
+    },
+    {
+      "page": 4,
+      "file": "page-04.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "sha256": "a1d99512b31f4e40ef7588615a8fb427b188dde701f5ccff28a4a6225e01bbf8"
+    },
+    {
+      "page": 5,
+      "file": "page-05.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "sha256": "41cb2c48f65a2481701471ac09def39d476f66c4e8fa04d953d180b45daffd88"
+    },
+    {
+      "page": 6,
+      "file": "page-06.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "sha256": "0cba020118b057c963057d9b8c76bec64524701fde13b99842e43e6aa63c25bb"
+    },
+    {
+      "page": 7,
+      "file": "page-07.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "sha256": "9f0681ef06a73cef14f39ade8341ef38846cae8a348782f48da133920efea2fa"
+    },
+    {
+      "page": 8,
+      "file": "page-08.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "sha256": "6927db8f5bea60af56ea7fb238ec3c1c93b03c698138c189a11cd409657b4bd2"
+    },
+    {
+      "page": 9,
+      "file": "page-09.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "sha256": "513a192c20909942241558b9214067a84152f5b14a7618805b8318b1275a9ebd"
+    },
+    {
+      "page": 10,
+      "file": "page-10.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "sha256": "38b7cb8152a0f45bd78b7177144a211a4565b57495768316e4c784f50ccec810"
+    },
+    {
+      "page": 11,
+      "file": "page-11.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "sha256": "638343df9538f6f3cf4b7508fea7ac71011ae93cdcb3e8ae37f601ab059036b9"
+    },
+    {
+      "page": 12,
+      "file": "page-12.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "sha256": "a637589dbf6bc93332945d7e7982d27c9a568e6c1ee011d2256737f507779666"
+    },
+    {
+      "page": 13,
+      "file": "page-13.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "sha256": "10791ad8b7658d2cc32a5d90ac80797ab54c4da550c5b6c4cc707135f4ab1b45"
+    },
+    {
+      "page": 14,
+      "file": "page-14.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "sha256": "3120fda1c8247e0d3ac750f92643172ecf67d1ef4ab68779007b70b00689a866"
+    },
+    {
+      "page": 15,
+      "file": "page-15.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "sha256": "74da1387bbfcb284a8a601de004547dba8d12d34cf501bf4b17e4a3d704f4ecd"
+    },
+    {
+      "page": 16,
+      "file": "page-16.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "sha256": "dbbd94f1b244087b86d99c26d972babcbf1105dd9fddc03eeca95e7ade8f5866"
+    },
+    {
+      "page": 17,
+      "file": "page-17.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "sha256": "1fbc507c5436037d5c278fa62c781c8017757cd4b9e0d2691f48e5a0b1d3053e"
+    },
+    {
+      "page": 18,
+      "file": "page-18.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "sha256": "4db73cceae6e989da78802cbb51700ce4b0f6d2bfe49dd7546c29d839a7cbb0c"
+    },
+    {
+      "page": 19,
+      "file": "page-19.webp",
+      "width": 887,
+      "height": 1774,
+      "cuts": [
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "sha256": "5917e8604d9eced686f7b17b2a1ccca4ca471e66fd0b7def46ed391be648d856"
+    }
+  ],
+  "format": "single-column vertically read full-color pages; no crop; optional2xzoom",
+  "generation": "built-in image_gen; WebP encoding only, no drawn pixel retouch with Python"
+}
