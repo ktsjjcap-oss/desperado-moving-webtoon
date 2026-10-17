@@ -1,0 +1,28 @@
+name: Webtoon v18 Reader QA
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'episodes/ep01/webtoon-v18/**'
+      - 'scripts/qa-webtoon-v18.mjs'
+      - '.github/workflows/webtoon-v18-qa.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  reader:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: node scripts/qa-webtoon-v18.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: webtoon-v18-reader-evidence
+          path: qa-v18
+          if-no-files-found: error
