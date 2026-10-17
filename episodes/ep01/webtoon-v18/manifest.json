@@ -264,8 +264,434 @@
         90
       ],
       "sha256": "5917e8604d9eced686f7b17b2a1ccca4ca471e66fd0b7def46ed391be648d856"
+    },
+    {
+      "page": null,
+      "key": "hero-1",
+      "file": "hero-01.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        1
+      ],
+      "sha256": "2c4c35e6e786097b699adfc9eab7a9b51fbe88151c353225daf74a855a7f9aa3"
+    },
+    {
+      "page": null,
+      "key": "hero-61",
+      "file": "hero-61.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        61
+      ],
+      "sha256": "44e5ef8b9cd30fe439f0d5d38e928a49ebc32518df412a3c802c1b46a28edd92"
+    },
+    {
+      "page": null,
+      "key": "hero-78",
+      "file": "hero-78.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        78
+      ],
+      "sha256": "71f3ae674f97cdd4c61fb2c0470dcfd88328afea58d700570d0c198ecd6f6b40"
+    },
+    {
+      "page": null,
+      "key": "hero-90",
+      "file": "hero-90.webp",
+      "width": 1024,
+      "height": 1536,
+      "cuts": [
+        90
+      ],
+      "sha256": "57f1c0551624b4f8c67174c985cc1f0b3fa1587f81188f68c08e9a80a0ea3bf3"
     }
   ],
-  "format": "single-column vertically read full-color pages; no crop; optional2xzoom",
-  "generation": "built-in image_gen; WebP encoding only, no drawn pixel retouch with Python"
+  "format": "90컷. 19색채 장면 시트+4개 세로 주요 컷,24읽기 블록. 교체된 원래 컷은 본문/확대 모두 제외. 컷 비율 변형 없음.",
+  "generation": "built-in image_gen; WebP encoding only, no drawn pixel retouch with Python",
+  "blocks": [
+    {
+      "asset": "hero-1",
+      "file": "hero-01.webp",
+      "ids": [
+        1
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-1"
+    },
+    {
+      "asset": "1",
+      "file": "page-01.webp",
+      "ids": [
+        2,
+        3,
+        4
+      ],
+      "start": 500,
+      "end": 1536,
+      "width": 1024,
+      "height": 1036,
+      "source_height": 1536,
+      "anchor": "cut-2"
+    },
+    {
+      "asset": "2",
+      "file": "page-02.webp",
+      "ids": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-2"
+    },
+    {
+      "asset": "3",
+      "file": "page-03.webp",
+      "ids": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-3"
+    },
+    {
+      "asset": "4",
+      "file": "page-04.webp",
+      "ids": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-4"
+    },
+    {
+      "asset": "5",
+      "file": "page-05.webp",
+      "ids": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-5"
+    },
+    {
+      "asset": "6",
+      "file": "page-06.webp",
+      "ids": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-6"
+    },
+    {
+      "asset": "7",
+      "file": "page-07.webp",
+      "ids": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-7"
+    },
+    {
+      "asset": "8",
+      "file": "page-08.webp",
+      "ids": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-8"
+    },
+    {
+      "asset": "9",
+      "file": "page-09.webp",
+      "ids": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-9"
+    },
+    {
+      "asset": "10",
+      "file": "page-10.webp",
+      "ids": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "page-10"
+    },
+    {
+      "asset": "11",
+      "file": "page-11.webp",
+      "ids": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-11"
+    },
+    {
+      "asset": "12",
+      "file": "page-12.webp",
+      "ids": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-12"
+    },
+    {
+      "asset": "13",
+      "file": "page-13.webp",
+      "ids": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "start": 0,
+      "end": 1302,
+      "width": 887,
+      "height": 1302,
+      "source_height": 1774,
+      "anchor": "page-13"
+    },
+    {
+      "asset": "hero-61",
+      "file": "hero-61.webp",
+      "ids": [
+        61
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "cut-61"
+    },
+    {
+      "asset": "14",
+      "file": "page-14.webp",
+      "ids": [
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-14"
+    },
+    {
+      "asset": "15",
+      "file": "page-15.webp",
+      "ids": [
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-15"
+    },
+    {
+      "asset": "16",
+      "file": "page-16.webp",
+      "ids": [
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-16"
+    },
+    {
+      "asset": "17",
+      "file": "page-17.webp",
+      "ids": [
+        77
+      ],
+      "start": 0,
+      "end": 269,
+      "width": 887,
+      "height": 269,
+      "source_height": 1774,
+      "anchor": "page-17"
+    },
+    {
+      "asset": "hero-78",
+      "file": "hero-78.webp",
+      "ids": [
+        78
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "cut-78"
+    },
+    {
+      "asset": "17",
+      "file": "page-17.webp",
+      "ids": [
+        79,
+        80,
+        81
+      ],
+      "start": 730,
+      "end": 1774,
+      "width": 887,
+      "height": 1044,
+      "source_height": 1774,
+      "anchor": "cut-79"
+    },
+    {
+      "asset": "18",
+      "file": "page-18.webp",
+      "ids": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "start": 0,
+      "end": 1774,
+      "width": 887,
+      "height": 1774,
+      "source_height": 1774,
+      "anchor": "page-18"
+    },
+    {
+      "asset": "19",
+      "file": "page-19.webp",
+      "ids": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "start": 0,
+      "end": 1076,
+      "width": 887,
+      "height": 1076,
+      "source_height": 1774,
+      "anchor": "page-19"
+    },
+    {
+      "asset": "hero-90",
+      "file": "hero-90.webp",
+      "ids": [
+        90
+      ],
+      "start": 0,
+      "end": 1536,
+      "width": 1024,
+      "height": 1536,
+      "source_height": 1536,
+      "anchor": "cut-90"
+    }
+  ],
+  "reading_blocks": 24,
+  "build_tag": "v18-reflow-4heroes"
 }
